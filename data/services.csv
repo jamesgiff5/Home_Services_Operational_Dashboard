@@ -1,0 +1,1821 @@
+job_id,service_type,price,cost,service_id
+1,Roof Cleaning,545,70,S1_Roo
+2,Paver Sealing,1855,740,S2_Pav
+3,Paver Sealing,1135,455,S3_Pav
+4,Solar Panel Cleaning,95,15,S4_Sol
+4,Pool Screen Cleaning,270,50,S4_Poo
+5,Paver Sealing,1180,470,S5_Pav
+6,Driveway Cleaning,225,35,S6_Dri
+7,House Wash,280,40,S7_Hou
+7,Gutter Cleaning,105,25,S7_Gut
+8,Gutter Cleaning,85,25,S8_Gut
+9,Roof Cleaning,1370,260,S9_Roo
+10,Driveway Cleaning,120,25,S10_Dri
+10,Roof Cleaning,860,90,S10_Roo
+11,Pool Screen Cleaning,360,60,S11_Poo
+12,Roof Cleaning,1210,345,S12_Roo
+13,Roof Cleaning,1695,260,S13_Roo
+14,Paver Sealing,1875,750,S14_Pav
+15,Window Cleaning,125,30,S15_Win
+15,Gutter Cleaning,80,10,S15_Gut
+15,Driveway Cleaning,130,30,S15_Dri
+15,Solar Panel Cleaning,120,30,S15_Sol
+16,Paver Sealing,990,395,S16_Pav
+17,Paver Sealing,1460,585,S17_Pav
+18,Driveway Cleaning,250,40,S18_Dri
+19,Driveway Cleaning,250,30,S19_Dri
+20,Paver Sealing,1270,510,S20_Pav
+21,House Wash,270,70,S21_Hou
+21,Roof Cleaning,1850,370,S21_Roo
+21,Patio/Pool Deck Cleaning,120,20,S21_Pat
+22,Paver Sealing,2060,825,S22_Pav
+23,Window Cleaning,80,20,S23_Win
+23,House Wash,180,20,S23_Hou
+24,Roof Cleaning,695,200,S24_Roo
+25,House Wash,290,60,S25_Hou
+25,Patio/Pool Deck Cleaning,145,40,S25_Pat
+26,Driveway Cleaning,135,15,S26_Dri
+26,Solar Panel Cleaning,90,15,S26_Sol
+27,Driveway Cleaning,250,65,S27_Dri
+28,Roof Cleaning,935,190,S28_Roo
+29,Gutter Cleaning,90,15,S29_Gut
+29,Window Cleaning,95,15,S29_Win
+30,Paver Sealing,1745,700,S30_Pav
+31,Driveway Cleaning,125,20,S31_Dri
+32,Gutter Cleaning,105,30,S32_Gut
+32,Pool Screen Cleaning,245,30,S32_Poo
+32,House Wash,200,60,S32_Hou
+33,House Wash,225,55,S33_Hou
+34,Roof Cleaning,500,125,S34_Roo
+35,Window Cleaning,105,20,S35_Win
+36,Window Cleaning,60,15,S36_Win
+37,Driveway Cleaning,165,15,S37_Dri
+37,Pool Screen Cleaning,300,45,S37_Poo
+38,Paver Sealing,900,360,S38_Pav
+39,Roof Cleaning,1875,315,S39_Roo
+39,Window Cleaning,45,15,S39_Win
+39,Pool Screen Cleaning,310,45,S39_Poo
+40,Driveway Cleaning,225,35,S40_Dri
+41,Paver Sealing,1810,725,S41_Pav
+42,Paver Sealing,2450,980,S42_Pav
+43,Paver Sealing,2020,810,S43_Pav
+44,Pool Screen Cleaning,295,85,S44_Poo
+45,House Wash,285,30,S45_Hou
+45,Window Cleaning,50,10,S45_Win
+46,Driveway Cleaning,225,25,S46_Dri
+47,Solar Panel Cleaning,100,25,S47_Sol
+48,Window Cleaning,70,10,S48_Win
+49,Pool Screen Cleaning,315,55,S49_Poo
+49,Roof Cleaning,1375,210,S49_Roo
+50,House Wash,225,65,S50_Hou
+50,Gutter Cleaning,95,25,S50_Gut
+51,Window Cleaning,95,25,S51_Win
+51,Roof Cleaning,2465,490,S51_Roo
+52,House Wash,250,55,S52_Hou
+53,Roof Cleaning,1260,360,S53_Roo
+53,Pool Screen Cleaning,290,85,S53_Poo
+53,House Wash,260,70,S53_Hou
+54,Gutter Cleaning,110,20,S54_Gut
+55,Roof Cleaning,965,130,S55_Roo
+55,Window Cleaning,80,25,S55_Win
+56,Solar Panel Cleaning,140,40,S56_Sol
+56,Roof Cleaning,1530,195,S56_Roo
+57,Window Cleaning,100,30,S57_Win
+58,House Wash,250,65,S58_Hou
+58,Gutter Cleaning,140,40,S58_Gut
+58,Roof Cleaning,1225,245,S58_Roo
+59,Driveway Cleaning,160,35,S59_Dri
+59,Roof Cleaning,1535,370,S59_Roo
+60,Solar Panel Cleaning,155,45,S60_Sol
+60,House Wash,185,30,S60_Hou
+60,Patio/Pool Deck Cleaning,90,20,S60_Pat
+61,Window Cleaning,80,15,S61_Win
+61,Gutter Cleaning,75,10,S61_Gut
+61,Pool Screen Cleaning,330,55,S61_Poo
+62,Pool Screen Cleaning,390,45,S62_Poo
+62,Window Cleaning,45,10,S62_Win
+63,Paver Sealing,3315,1325,S63_Pav
+64,House Wash,305,45,S64_Hou
+64,Roof Cleaning,1560,295,S64_Roo
+64,Window Cleaning,50,5,S64_Win
+64,Gutter Cleaning,150,40,S64_Gut
+65,Driveway Cleaning,150,25,S65_Dri
+65,House Wash,180,25,S65_Hou
+66,Window Cleaning,70,15,S66_Win
+67,Pool Screen Cleaning,435,110,S67_Poo
+67,Patio/Pool Deck Cleaning,135,30,S67_Pat
+68,Pool Screen Cleaning,325,50,S68_Poo
+68,Roof Cleaning,1735,180,S68_Roo
+68,Gutter Cleaning,75,10,S68_Gut
+68,Driveway Cleaning,80,20,S68_Dri
+69,Pool Screen Cleaning,335,65,S69_Poo
+70,House Wash,250,45,S70_Hou
+71,Solar Panel Cleaning,155,15,S71_Sol
+72,Patio/Pool Deck Cleaning,185,45,S72_Pat
+72,Solar Panel Cleaning,75,10,S72_Sol
+72,Gutter Cleaning,115,10,S72_Gut
+73,House Wash,285,80,S73_Hou
+73,Pool Screen Cleaning,305,55,S73_Poo
+73,Solar Panel Cleaning,125,25,S73_Sol
+74,Paver Sealing,1035,415,S74_Pav
+75,Paver Sealing,1210,485,S75_Pav
+76,House Wash,255,70,S76_Hou
+76,Window Cleaning,45,10,S76_Win
+76,Solar Panel Cleaning,95,10,S76_Sol
+77,Pool Screen Cleaning,295,75,S77_Poo
+77,House Wash,225,65,S77_Hou
+77,Roof Cleaning,1205,220,S77_Roo
+78,House Wash,260,65,S78_Hou
+78,Roof Cleaning,1510,410,S78_Roo
+79,Patio/Pool Deck Cleaning,145,35,S79_Pat
+80,Driveway Cleaning,185,35,S80_Dri
+80,Roof Cleaning,1100,290,S80_Roo
+80,Window Cleaning,65,20,S80_Win
+80,Patio/Pool Deck Cleaning,120,10,S80_Pat
+81,Roof Cleaning,1260,365,S81_Roo
+82,Window Cleaning,80,15,S82_Win
+83,Pool Screen Cleaning,360,90,S83_Poo
+83,Gutter Cleaning,125,30,S83_Gut
+83,Roof Cleaning,1035,120,S83_Roo
+84,Roof Cleaning,550,155,S84_Roo
+85,Driveway Cleaning,110,30,S85_Dri
+85,House Wash,210,25,S85_Hou
+86,Patio/Pool Deck Cleaning,180,45,S86_Pat
+87,Paver Sealing,3015,1205,S87_Pav
+88,Window Cleaning,110,30,S88_Win
+89,Patio/Pool Deck Cleaning,180,40,S89_Pat
+89,Solar Panel Cleaning,95,25,S89_Sol
+89,Roof Cleaning,1090,110,S89_Roo
+90,Patio/Pool Deck Cleaning,145,15,S90_Pat
+90,Roof Cleaning,600,75,S90_Roo
+90,Solar Panel Cleaning,75,15,S90_Sol
+91,Patio/Pool Deck Cleaning,175,40,S91_Pat
+92,Solar Panel Cleaning,180,25,S92_Sol
+93,Paver Sealing,1655,660,S93_Pav
+94,Roof Cleaning,1750,370,S94_Roo
+95,House Wash,265,55,S95_Hou
+96,Roof Cleaning,1045,235,S96_Roo
+97,Paver Sealing,2380,950,S97_Pav
+98,Roof Cleaning,500,110,S98_Roo
+98,Solar Panel Cleaning,70,20,S98_Sol
+99,Paver Sealing,1180,470,S99_Pav
+100,Driveway Cleaning,175,40,S100_Dri
+100,House Wash,200,55,S100_Hou
+100,Gutter Cleaning,140,40,S100_Gut
+101,Roof Cleaning,1470,270,S101_Roo
+101,Driveway Cleaning,135,35,S101_Dri
+101,House Wash,180,20,S101_Hou
+102,Pool Screen Cleaning,385,70,S102_Poo
+102,Roof Cleaning,2020,595,S102_Roo
+103,Paver Sealing,1820,730,S103_Pav
+104,Roof Cleaning,1240,240,S104_Roo
+105,Window Cleaning,60,15,S105_Win
+106,Paver Sealing,900,360,S106_Pav
+107,Gutter Cleaning,190,40,S107_Gut
+108,Roof Cleaning,1130,165,S108_Roo
+108,House Wash,235,55,S108_Hou
+109,House Wash,265,55,S109_Hou
+109,Patio/Pool Deck Cleaning,140,30,S109_Pat
+109,Roof Cleaning,1185,250,S109_Roo
+110,Roof Cleaning,1675,175,S110_Roo
+110,Window Cleaning,85,20,S110_Win
+111,Window Cleaning,105,15,S111_Win
+112,Pool Screen Cleaning,365,105,S112_Poo
+113,Pool Screen Cleaning,350,70,S113_Poo
+113,Window Cleaning,95,15,S113_Win
+113,House Wash,230,65,S113_Hou
+113,Roof Cleaning,1200,180,S113_Roo
+114,Gutter Cleaning,155,25,S114_Gut
+115,Patio/Pool Deck Cleaning,120,15,S115_Pat
+115,Pool Screen Cleaning,255,35,S115_Poo
+115,House Wash,200,45,S115_Hou
+116,Roof Cleaning,1500,205,S116_Roo
+116,Pool Screen Cleaning,255,70,S116_Poo
+117,House Wash,225,25,S117_Hou
+117,Roof Cleaning,835,115,S117_Roo
+118,Paver Sealing,965,385,S118_Pav
+119,Roof Cleaning,1130,270,S119_Roo
+120,House Wash,315,90,S120_Hou
+121,Solar Panel Cleaning,95,15,S121_Sol
+121,House Wash,245,60,S121_Hou
+121,Patio/Pool Deck Cleaning,105,15,S121_Pat
+122,Roof Cleaning,550,105,S122_Roo
+122,Pool Screen Cleaning,325,35,S122_Poo
+122,Patio/Pool Deck Cleaning,110,25,S122_Pat
+122,House Wash,255,50,S122_Hou
+123,Gutter Cleaning,145,20,S123_Gut
+123,Solar Panel Cleaning,110,25,S123_Sol
+123,Window Cleaning,60,10,S123_Win
+124,Patio/Pool Deck Cleaning,150,15,S124_Pat
+124,House Wash,205,30,S124_Hou
+124,Window Cleaning,65,10,S124_Win
+125,Window Cleaning,100,20,S125_Win
+125,House Wash,240,45,S125_Hou
+126,Window Cleaning,60,10,S126_Win
+127,Driveway Cleaning,225,40,S127_Dri
+128,Patio/Pool Deck Cleaning,125,15,S128_Pat
+129,Gutter Cleaning,95,15,S129_Gut
+129,Patio/Pool Deck Cleaning,95,15,S129_Pat
+130,Window Cleaning,70,10,S130_Win
+131,Paver Sealing,900,360,S131_Pav
+132,Paver Sealing,2360,945,S132_Pav
+133,Roof Cleaning,895,120,S133_Roo
+134,Pool Screen Cleaning,410,55,S134_Poo
+135,Paver Sealing,2425,970,S135_Pav
+136,Pool Screen Cleaning,345,65,S136_Poo
+137,Paver Sealing,900,360,S137_Pav
+138,House Wash,285,35,S138_Hou
+138,Roof Cleaning,1650,325,S138_Roo
+139,Roof Cleaning,735,85,S139_Roo
+140,Gutter Cleaning,145,35,S140_Gut
+140,Roof Cleaning,910,200,S140_Roo
+141,Window Cleaning,85,15,S141_Win
+142,Window Cleaning,75,20,S142_Win
+142,Pool Screen Cleaning,305,90,S142_Poo
+143,Patio/Pool Deck Cleaning,195,25,S143_Pat
+144,Gutter Cleaning,155,20,S144_Gut
+144,Patio/Pool Deck Cleaning,95,15,S144_Pat
+144,House Wash,225,50,S144_Hou
+145,Driveway Cleaning,155,25,S145_Dri
+145,Solar Panel Cleaning,145,25,S145_Sol
+145,Pool Screen Cleaning,330,60,S145_Poo
+146,Pool Screen Cleaning,355,70,S146_Poo
+146,Gutter Cleaning,95,25,S146_Gut
+146,Roof Cleaning,550,155,S146_Roo
+147,Roof Cleaning,1110,320,S147_Roo
+148,Gutter Cleaning,140,25,S148_Gut
+148,Window Cleaning,50,15,S148_Win
+149,Paver Sealing,2315,925,S149_Pav
+150,Solar Panel Cleaning,115,30,S150_Sol
+151,Patio/Pool Deck Cleaning,105,20,S151_Pat
+151,Pool Screen Cleaning,295,80,S151_Poo
+152,Roof Cleaning,2235,375,S152_Roo
+153,Roof Cleaning,1920,250,S153_Roo
+154,Gutter Cleaning,145,30,S154_Gut
+154,House Wash,180,30,S154_Hou
+154,Roof Cleaning,880,120,S154_Roo
+155,Pool Screen Cleaning,425,90,S155_Poo
+155,Driveway Cleaning,115,20,S155_Dri
+155,Roof Cleaning,1310,290,S155_Roo
+156,Gutter Cleaning,90,25,S156_Gut
+156,House Wash,260,55,S156_Hou
+156,Roof Cleaning,2665,640,S156_Roo
+157,Pool Screen Cleaning,380,85,S157_Poo
+157,Roof Cleaning,2085,600,S157_Roo
+158,Driveway Cleaning,225,65,S158_Dri
+159,Gutter Cleaning,175,45,S159_Gut
+159,Roof Cleaning,845,105,S159_Roo
+160,Roof Cleaning,1020,265,S160_Roo
+161,Gutter Cleaning,90,15,S161_Gut
+162,Window Cleaning,80,15,S162_Win
+162,Driveway Cleaning,135,25,S162_Dri
+162,Roof Cleaning,885,150,S162_Roo
+163,Solar Panel Cleaning,135,15,S163_Sol
+163,Driveway Cleaning,100,20,S163_Dri
+163,House Wash,215,60,S163_Hou
+164,Roof Cleaning,1640,370,S164_Roo
+164,Patio/Pool Deck Cleaning,80,20,S164_Pat
+164,Window Cleaning,50,15,S164_Win
+165,Driveway Cleaning,105,30,S165_Dri
+165,Patio/Pool Deck Cleaning,120,25,S165_Pat
+165,House Wash,180,45,S165_Hou
+166,Gutter Cleaning,110,10,S166_Gut
+167,Patio/Pool Deck Cleaning,145,30,S167_Pat
+167,Solar Panel Cleaning,70,20,S167_Sol
+168,Pool Screen Cleaning,325,70,S168_Poo
+169,Roof Cleaning,550,70,S169_Roo
+169,Window Cleaning,55,15,S169_Win
+170,Driveway Cleaning,225,50,S170_Dri
+171,Solar Panel Cleaning,130,15,S171_Sol
+172,Window Cleaning,55,10,S172_Win
+172,Solar Panel Cleaning,90,20,S172_Sol
+173,Roof Cleaning,840,195,S173_Roo
+174,Paver Sealing,2190,875,S174_Pav
+175,Window Cleaning,110,15,S175_Win
+175,Patio/Pool Deck Cleaning,115,30,S175_Pat
+175,Pool Screen Cleaning,245,30,S175_Poo
+175,Roof Cleaning,1390,255,S175_Roo
+176,Driveway Cleaning,250,70,S176_Dri
+177,Solar Panel Cleaning,160,25,S177_Sol
+178,Paver Sealing,990,395,S178_Pav
+179,Driveway Cleaning,145,30,S179_Dri
+179,Roof Cleaning,550,160,S179_Roo
+179,Window Cleaning,95,10,S179_Win
+180,Paver Sealing,1165,465,S180_Pav
+181,Driveway Cleaning,100,15,S181_Dri
+181,House Wash,205,45,S181_Hou
+181,Roof Cleaning,790,210,S181_Roo
+182,Paver Sealing,1265,505,S182_Pav
+183,Paver Sealing,1775,710,S183_Pav
+184,Roof Cleaning,1275,130,S184_Roo
+185,Patio/Pool Deck Cleaning,175,25,S185_Pat
+185,House Wash,225,50,S185_Hou
+185,Roof Cleaning,950,95,S185_Roo
+186,Paver Sealing,2020,810,S186_Pav
+187,Driveway Cleaning,185,35,S187_Dri
+187,Patio/Pool Deck Cleaning,120,25,S187_Pat
+188,Paver Sealing,1455,580,S188_Pav
+189,Window Cleaning,70,10,S189_Win
+189,Roof Cleaning,1200,295,S189_Roo
+190,Driveway Cleaning,120,25,S190_Dri
+190,Pool Screen Cleaning,270,65,S190_Poo
+190,Solar Panel Cleaning,135,35,S190_Sol
+191,Paver Sealing,2085,835,S191_Pav
+192,Patio/Pool Deck Cleaning,175,20,S192_Pat
+193,Roof Cleaning,550,65,S193_Roo
+194,Patio/Pool Deck Cleaning,125,35,S194_Pat
+195,Paver Sealing,2315,925,S195_Pav
+196,Paver Sealing,2615,1045,S196_Pav
+197,Window Cleaning,65,20,S197_Win
+197,Solar Panel Cleaning,80,25,S197_Sol
+197,Roof Cleaning,550,115,S197_Roo
+198,Window Cleaning,125,30,S198_Win
+199,Gutter Cleaning,140,20,S199_Gut
+200,Paver Sealing,1420,570,S200_Pav
+201,Gutter Cleaning,175,50,S201_Gut
+202,Gutter Cleaning,135,40,S202_Gut
+202,Solar Panel Cleaning,65,15,S202_Sol
+202,Pool Screen Cleaning,250,70,S202_Poo
+202,Window Cleaning,100,30,S202_Win
+203,Window Cleaning,85,25,S203_Win
+203,Roof Cleaning,865,230,S203_Roo
+204,Roof Cleaning,1700,210,S204_Roo
+205,Paver Sealing,1930,770,S205_Pav
+206,House Wash,280,45,S206_Hou
+207,Paver Sealing,900,360,S207_Pav
+208,Paver Sealing,2170,870,S208_Pav
+209,House Wash,280,85,S209_Hou
+209,Window Cleaning,60,15,S209_Win
+210,Pool Screen Cleaning,325,65,S210_Poo
+211,Roof Cleaning,1235,305,S211_Roo
+211,Window Cleaning,60,5,S211_Win
+212,Solar Panel Cleaning,115,20,S212_Sol
+213,Roof Cleaning,600,65,S213_Roo
+213,Pool Screen Cleaning,220,65,S213_Poo
+214,Paver Sealing,1085,435,S214_Pav
+215,Window Cleaning,65,20,S215_Win
+216,House Wash,240,65,S216_Hou
+217,House Wash,300,45,S217_Hou
+217,Roof Cleaning,1185,265,S217_Roo
+217,Driveway Cleaning,110,15,S217_Dri
+218,House Wash,250,35,S218_Hou
+219,House Wash,250,65,S219_Hou
+220,Roof Cleaning,1480,435,S220_Roo
+221,Roof Cleaning,1990,475,S221_Roo
+222,House Wash,250,65,S222_Hou
+222,Window Cleaning,60,10,S222_Win
+223,House Wash,280,60,S223_Hou
+223,Roof Cleaning,895,195,S223_Roo
+224,Paver Sealing,2010,805,S224_Pav
+225,Pool Screen Cleaning,355,75,S225_Poo
+225,House Wash,180,35,S225_Hou
+226,Roof Cleaning,1265,310,S226_Roo
+226,House Wash,200,25,S226_Hou
+227,House Wash,315,65,S227_Hou
+228,Patio/Pool Deck Cleaning,165,35,S228_Pat
+228,Gutter Cleaning,140,25,S228_Gut
+228,Driveway Cleaning,135,30,S228_Dri
+229,Roof Cleaning,1725,470,S229_Roo
+229,Pool Screen Cleaning,320,85,S229_Poo
+229,House Wash,235,55,S229_Hou
+230,Gutter Cleaning,140,35,S230_Gut
+230,Window Cleaning,50,15,S230_Win
+231,House Wash,310,40,S231_Hou
+231,Roof Cleaning,1440,240,S231_Roo
+231,Patio/Pool Deck Cleaning,155,20,S231_Pat
+231,Pool Screen Cleaning,330,90,S231_Poo
+232,Patio/Pool Deck Cleaning,130,30,S232_Pat
+233,Pool Screen Cleaning,355,75,S233_Poo
+233,Solar Panel Cleaning,125,15,S233_Sol
+234,House Wash,305,65,S234_Hou
+234,Solar Panel Cleaning,150,25,S234_Sol
+235,Window Cleaning,120,30,S235_Win
+236,Gutter Cleaning,95,15,S236_Gut
+236,Solar Panel Cleaning,130,15,S236_Sol
+236,Patio/Pool Deck Cleaning,140,25,S236_Pat
+237,Gutter Cleaning,165,50,S237_Gut
+237,Pool Screen Cleaning,315,80,S237_Poo
+238,Roof Cleaning,2070,490,S238_Roo
+238,Solar Panel Cleaning,110,15,S238_Sol
+238,Driveway Cleaning,155,30,S238_Dri
+238,Pool Screen Cleaning,290,40,S238_Poo
+239,Window Cleaning,55,15,S239_Win
+240,Patio/Pool Deck Cleaning,165,25,S240_Pat
+241,Solar Panel Cleaning,120,35,S241_Sol
+242,Driveway Cleaning,250,40,S242_Dri
+243,Pool Screen Cleaning,400,75,S243_Poo
+244,Window Cleaning,60,15,S244_Win
+245,Paver Sealing,1545,620,S245_Pav
+246,Solar Panel Cleaning,170,25,S246_Sol
+246,House Wash,230,60,S246_Hou
+246,Pool Screen Cleaning,295,80,S246_Poo
+247,Window Cleaning,120,25,S247_Win
+247,Driveway Cleaning,95,10,S247_Dri
+248,Solar Panel Cleaning,90,20,S248_Sol
+248,Pool Screen Cleaning,265,35,S248_Poo
+249,Gutter Cleaning,140,15,S249_Gut
+250,Paver Sealing,990,395,S250_Pav
+251,Paver Sealing,2050,820,S251_Pav
+252,Patio/Pool Deck Cleaning,100,10,S252_Pat
+253,Roof Cleaning,550,130,S253_Roo
+254,Gutter Cleaning,140,15,S254_Gut
+255,House Wash,225,65,S255_Hou
+256,Paver Sealing,2210,885,S256_Pav
+257,Window Cleaning,50,10,S257_Win
+258,Window Cleaning,90,10,S258_Win
+258,House Wash,190,20,S258_Hou
+258,Pool Screen Cleaning,230,40,S258_Poo
+259,Window Cleaning,70,10,S259_Win
+260,Window Cleaning,100,25,S260_Win
+260,House Wash,180,50,S260_Hou
+260,Pool Screen Cleaning,225,45,S260_Poo
+261,Pool Screen Cleaning,400,110,S261_Poo
+262,House Wash,250,70,S262_Hou
+263,House Wash,255,65,S263_Hou
+264,Patio/Pool Deck Cleaning,145,35,S264_Pat
+264,Gutter Cleaning,105,25,S264_Gut
+265,House Wash,285,40,S265_Hou
+265,Roof Cleaning,1360,315,S265_Roo
+265,Solar Panel Cleaning,100,20,S265_Sol
+266,Paver Sealing,1255,500,S266_Pav
+267,Gutter Cleaning,145,15,S267_Gut
+267,House Wash,180,25,S267_Hou
+268,Solar Panel Cleaning,135,35,S268_Sol
+268,Gutter Cleaning,130,30,S268_Gut
+269,Driveway Cleaning,145,25,S269_Dri
+269,Pool Screen Cleaning,285,85,S269_Poo
+269,Window Cleaning,45,10,S269_Win
+270,Pool Screen Cleaning,335,90,S270_Poo
+271,Paver Sealing,1460,585,S271_Pav
+272,Paver Sealing,2305,920,S272_Pav
+273,Patio/Pool Deck Cleaning,180,45,S273_Pat
+274,House Wash,250,60,S274_Hou
+275,Driveway Cleaning,250,35,S275_Dri
+276,Roof Cleaning,550,150,S276_Roo
+277,Driveway Cleaning,135,25,S277_Dri
+277,Window Cleaning,60,15,S277_Win
+278,Solar Panel Cleaning,155,25,S278_Sol
+278,Roof Cleaning,1180,300,S278_Roo
+278,Pool Screen Cleaning,255,75,S278_Poo
+279,Driveway Cleaning,225,45,S279_Dri
+280,Solar Panel Cleaning,95,20,S280_Sol
+280,Patio/Pool Deck Cleaning,105,30,S280_Pat
+281,Window Cleaning,95,25,S281_Win
+281,Solar Panel Cleaning,75,10,S281_Sol
+281,Roof Cleaning,940,255,S281_Roo
+282,Window Cleaning,60,10,S282_Win
+283,Paver Sealing,3260,1305,S283_Pav
+284,Solar Panel Cleaning,85,20,S284_Sol
+284,Window Cleaning,95,10,S284_Win
+285,Roof Cleaning,885,115,S285_Roo
+286,Solar Panel Cleaning,190,55,S286_Sol
+287,Pool Screen Cleaning,335,80,S287_Poo
+287,Roof Cleaning,1105,140,S287_Roo
+287,House Wash,180,30,S287_Hou
+287,Solar Panel Cleaning,120,15,S287_Sol
+288,Roof Cleaning,1360,255,S288_Roo
+289,Solar Panel Cleaning,160,20,S289_Sol
+290,Paver Sealing,1080,430,S290_Pav
+291,Pool Screen Cleaning,385,80,S291_Poo
+292,Roof Cleaning,1655,235,S292_Roo
+293,Paver Sealing,2805,1120,S293_Pav
+294,House Wash,265,80,S294_Hou
+294,Gutter Cleaning,70,20,S294_Gut
+294,Roof Cleaning,1605,410,S294_Roo
+294,Solar Panel Cleaning,105,25,S294_Sol
+295,House Wash,315,55,S295_Hou
+295,Solar Panel Cleaning,100,25,S295_Sol
+295,Pool Screen Cleaning,330,85,S295_Poo
+295,Roof Cleaning,1070,280,S295_Roo
+296,Gutter Cleaning,130,15,S296_Gut
+296,Solar Panel Cleaning,90,15,S296_Sol
+297,Gutter Cleaning,130,30,S297_Gut
+297,Solar Panel Cleaning,105,20,S297_Sol
+298,Window Cleaning,65,5,S298_Win
+298,Roof Cleaning,1920,430,S298_Roo
+298,Pool Screen Cleaning,265,45,S298_Poo
+299,Solar Panel Cleaning,110,20,S299_Sol
+300,Driveway Cleaning,130,30,S300_Dri
+300,Roof Cleaning,1605,330,S300_Roo
+300,Gutter Cleaning,110,30,S300_Gut
+301,Roof Cleaning,1395,405,S301_Roo
+302,Roof Cleaning,1680,385,S302_Roo
+303,House Wash,325,55,S303_Hou
+304,Window Cleaning,65,15,S304_Win
+304,Solar Panel Cleaning,90,15,S304_Sol
+305,Solar Panel Cleaning,110,30,S305_Sol
+305,House Wash,205,35,S305_Hou
+305,Patio/Pool Deck Cleaning,130,30,S305_Pat
+306,Driveway Cleaning,225,30,S306_Dri
+307,Paver Sealing,1855,740,S307_Pav
+308,Gutter Cleaning,145,20,S308_Gut
+308,Window Cleaning,110,20,S308_Win
+308,Solar Panel Cleaning,140,30,S308_Sol
+308,Pool Screen Cleaning,245,55,S308_Poo
+309,Pool Screen Cleaning,300,65,S309_Poo
+309,Gutter Cleaning,95,25,S309_Gut
+310,Window Cleaning,130,20,S310_Win
+311,Paver Sealing,900,360,S311_Pav
+312,Window Cleaning,125,25,S312_Win
+313,Gutter Cleaning,145,15,S313_Gut
+313,House Wash,210,40,S313_Hou
+313,Window Cleaning,75,10,S313_Win
+313,Driveway Cleaning,125,35,S313_Dri
+314,Roof Cleaning,1120,250,S314_Roo
+314,Patio/Pool Deck Cleaning,125,20,S314_Pat
+315,Window Cleaning,135,15,S315_Win
+315,Patio/Pool Deck Cleaning,150,25,S315_Pat
+316,Window Cleaning,80,20,S316_Win
+316,Solar Panel Cleaning,115,35,S316_Sol
+316,Roof Cleaning,1025,130,S316_Roo
+316,House Wash,180,45,S316_Hou
+317,Pool Screen Cleaning,315,35,S317_Poo
+318,Patio/Pool Deck Cleaning,135,25,S318_Pat
+319,Paver Sealing,1790,715,S319_Pav
+320,Patio/Pool Deck Cleaning,205,45,S320_Pat
+320,Window Cleaning,80,15,S320_Win
+320,House Wash,205,50,S320_Hou
+321,Roof Cleaning,715,215,S321_Roo
+322,Solar Panel Cleaning,85,20,S322_Sol
+322,Gutter Cleaning,135,20,S322_Gut
+323,Roof Cleaning,665,140,S323_Roo
+323,Driveway Cleaning,95,20,S323_Dri
+323,Window Cleaning,95,15,S323_Win
+324,Gutter Cleaning,155,40,S324_Gut
+324,Window Cleaning,105,15,S324_Win
+325,Paver Sealing,2315,925,S325_Pav
+326,Solar Panel Cleaning,155,20,S326_Sol
+326,Gutter Cleaning,135,15,S326_Gut
+326,Roof Cleaning,1485,360,S326_Roo
+327,Paver Sealing,2065,825,S327_Pav
+328,Paver Sealing,970,390,S328_Pav
+329,Paver Sealing,990,395,S329_Pav
+330,Paver Sealing,900,360,S330_Pav
+331,Paver Sealing,990,395,S331_Pav
+332,Window Cleaning,130,15,S332_Win
+333,Window Cleaning,120,20,S333_Win
+334,Pool Screen Cleaning,385,105,S334_Poo
+334,Patio/Pool Deck Cleaning,145,35,S334_Pat
+334,Window Cleaning,60,5,S334_Win
+335,Window Cleaning,110,20,S335_Win
+335,House Wash,260,60,S335_Hou
+336,Driveway Cleaning,165,45,S336_Dri
+336,Solar Panel Cleaning,100,20,S336_Sol
+336,Patio/Pool Deck Cleaning,140,20,S336_Pat
+337,Window Cleaning,60,10,S337_Win
+338,Pool Screen Cleaning,315,65,S338_Poo
+338,Driveway Cleaning,105,15,S338_Dri
+339,Roof Cleaning,550,125,S339_Roo
+340,Solar Panel Cleaning,140,20,S340_Sol
+340,Driveway Cleaning,85,20,S340_Dri
+341,House Wash,330,35,S341_Hou
+342,Patio/Pool Deck Cleaning,115,15,S342_Pat
+342,Gutter Cleaning,85,10,S342_Gut
+342,Solar Panel Cleaning,115,15,S342_Sol
+343,House Wash,250,75,S343_Hou
+343,Roof Cleaning,1400,370,S343_Roo
+344,House Wash,290,60,S344_Hou
+345,Pool Screen Cleaning,385,75,S345_Poo
+346,Roof Cleaning,1510,385,S346_Roo
+347,Paver Sealing,2205,880,S347_Pav
+348,Window Cleaning,90,15,S348_Win
+348,Solar Panel Cleaning,65,10,S348_Sol
+349,Driveway Cleaning,155,30,S349_Dri
+350,Paver Sealing,990,395,S350_Pav
+351,House Wash,230,55,S351_Hou
+352,Paver Sealing,1570,630,S352_Pav
+353,House Wash,305,85,S353_Hou
+354,House Wash,295,55,S354_Hou
+355,House Wash,225,60,S355_Hou
+356,Window Cleaning,100,30,S356_Win
+357,Paver Sealing,2640,1055,S357_Pav
+358,Driveway Cleaning,155,30,S358_Dri
+358,Gutter Cleaning,115,10,S358_Gut
+359,Solar Panel Cleaning,85,10,S359_Sol
+359,Driveway Cleaning,135,35,S359_Dri
+359,House Wash,190,30,S359_Hou
+360,Patio/Pool Deck Cleaning,130,20,S360_Pat
+361,Paver Sealing,3135,1255,S361_Pav
+362,Driveway Cleaning,110,15,S362_Dri
+362,Gutter Cleaning,150,25,S362_Gut
+363,Paver Sealing,2085,835,S363_Pav
+364,Roof Cleaning,1930,240,S364_Roo
+364,House Wash,230,60,S364_Hou
+364,Pool Screen Cleaning,315,65,S364_Poo
+365,Paver Sealing,1810,725,S365_Pav
+366,House Wash,285,70,S366_Hou
+366,Patio/Pool Deck Cleaning,160,35,S366_Pat
+366,Window Cleaning,50,10,S366_Win
+367,Window Cleaning,80,15,S367_Win
+367,Pool Screen Cleaning,265,60,S367_Poo
+368,Gutter Cleaning,90,15,S368_Gut
+369,Driveway Cleaning,160,45,S369_Dri
+369,Pool Screen Cleaning,305,85,S369_Poo
+369,Roof Cleaning,1235,185,S369_Roo
+370,Solar Panel Cleaning,150,30,S370_Sol
+370,Gutter Cleaning,130,30,S370_Gut
+371,Driveway Cleaning,140,40,S371_Dri
+371,Window Cleaning,95,10,S371_Win
+371,Roof Cleaning,1055,260,S371_Roo
+371,Pool Screen Cleaning,300,45,S371_Poo
+372,Pool Screen Cleaning,370,100,S372_Poo
+372,Patio/Pool Deck Cleaning,150,30,S372_Pat
+372,Roof Cleaning,1165,255,S372_Roo
+373,Solar Panel Cleaning,135,30,S373_Sol
+374,Window Cleaning,85,10,S374_Win
+375,Pool Screen Cleaning,305,75,S375_Poo
+375,Solar Panel Cleaning,140,15,S375_Sol
+376,Pool Screen Cleaning,360,95,S376_Poo
+377,House Wash,225,40,S377_Hou
+378,House Wash,305,65,S378_Hou
+378,Pool Screen Cleaning,245,60,S378_Poo
+378,Patio/Pool Deck Cleaning,90,20,S378_Pat
+379,Pool Screen Cleaning,325,50,S379_Poo
+379,Solar Panel Cleaning,145,45,S379_Sol
+379,House Wash,210,40,S379_Hou
+380,Driveway Cleaning,225,55,S380_Dri
+381,Patio/Pool Deck Cleaning,155,35,S381_Pat
+381,Gutter Cleaning,70,15,S381_Gut
+382,Solar Panel Cleaning,115,30,S382_Sol
+382,Roof Cleaning,1190,235,S382_Roo
+383,House Wash,285,60,S383_Hou
+384,Driveway Cleaning,175,25,S384_Dri
+384,Patio/Pool Deck Cleaning,160,30,S384_Pat
+384,Solar Panel Cleaning,75,10,S384_Sol
+385,House Wash,255,65,S385_Hou
+386,Driveway Cleaning,110,20,S386_Dri
+386,Window Cleaning,65,10,S386_Win
+387,Driveway Cleaning,115,25,S387_Dri
+387,House Wash,220,65,S387_Hou
+388,Pool Screen Cleaning,390,90,S388_Poo
+388,House Wash,195,45,S388_Hou
+388,Driveway Cleaning,125,15,S388_Dri
+389,Roof Cleaning,680,145,S389_Roo
+390,Patio/Pool Deck Cleaning,160,20,S390_Pat
+390,Driveway Cleaning,100,15,S390_Dri
+391,Roof Cleaning,500,145,S391_Roo
+392,Driveway Cleaning,225,60,S392_Dri
+393,Window Cleaning,120,25,S393_Win
+394,House Wash,225,55,S394_Hou
+394,Gutter Cleaning,100,20,S394_Gut
+395,Solar Panel Cleaning,140,20,S395_Sol
+395,Pool Screen Cleaning,295,70,S395_Poo
+395,Driveway Cleaning,135,15,S395_Dri
+395,Patio/Pool Deck Cleaning,85,15,S395_Pat
+396,Gutter Cleaning,115,15,S396_Gut
+397,Driveway Cleaning,250,65,S397_Dri
+398,Window Cleaning,85,20,S398_Win
+399,Roof Cleaning,1185,135,S399_Roo
+399,Window Cleaning,95,10,S399_Win
+400,House Wash,290,30,S400_Hou
+400,Patio/Pool Deck Cleaning,135,40,S400_Pat
+400,Pool Screen Cleaning,275,80,S400_Poo
+400,Driveway Cleaning,85,15,S400_Dri
+401,Paver Sealing,2540,1015,S401_Pav
+402,Window Cleaning,65,15,S402_Win
+402,Driveway Cleaning,110,30,S402_Dri
+402,Patio/Pool Deck Cleaning,130,20,S402_Pat
+403,House Wash,225,30,S403_Hou
+404,Paver Sealing,900,360,S404_Pav
+405,Roof Cleaning,1445,165,S405_Roo
+405,Solar Panel Cleaning,130,25,S405_Sol
+405,Gutter Cleaning,75,15,S405_Gut
+406,House Wash,250,35,S406_Hou
+406,Gutter Cleaning,135,35,S406_Gut
+406,Solar Panel Cleaning,115,20,S406_Sol
+407,Pool Screen Cleaning,325,75,S407_Poo
+408,Roof Cleaning,1445,295,S408_Roo
+409,Solar Panel Cleaning,170,25,S409_Sol
+410,House Wash,225,30,S410_Hou
+410,Roof Cleaning,1680,345,S410_Roo
+410,Pool Screen Cleaning,240,65,S410_Poo
+411,House Wash,245,75,S411_Hou
+411,Solar Panel Cleaning,125,15,S411_Sol
+411,Driveway Cleaning,85,15,S411_Dri
+412,Pool Screen Cleaning,430,90,S412_Poo
+413,Roof Cleaning,785,180,S413_Roo
+414,Roof Cleaning,550,140,S414_Roo
+415,Patio/Pool Deck Cleaning,160,35,S415_Pat
+415,Driveway Cleaning,130,25,S415_Dri
+415,House Wash,235,50,S415_Hou
+416,Roof Cleaning,1200,160,S416_Roo
+416,Gutter Cleaning,115,30,S416_Gut
+416,Patio/Pool Deck Cleaning,105,30,S416_Pat
+416,Pool Screen Cleaning,310,50,S416_Poo
+417,Driveway Cleaning,115,15,S417_Dri
+417,Solar Panel Cleaning,130,30,S417_Sol
+417,House Wash,180,35,S417_Hou
+418,Window Cleaning,115,30,S418_Win
+418,Roof Cleaning,1360,250,S418_Roo
+418,Gutter Cleaning,140,35,S418_Gut
+419,Gutter Cleaning,165,30,S419_Gut
+420,Roof Cleaning,1105,130,S420_Roo
+421,Patio/Pool Deck Cleaning,175,25,S421_Pat
+421,Window Cleaning,90,25,S421_Win
+421,Gutter Cleaning,105,25,S421_Gut
+422,Solar Panel Cleaning,120,25,S422_Sol
+422,Driveway Cleaning,140,25,S422_Dri
+422,Gutter Cleaning,100,20,S422_Gut
+422,Window Cleaning,100,15,S422_Win
+423,House Wash,225,30,S423_Hou
+424,Paver Sealing,1070,430,S424_Pav
+425,Paver Sealing,900,360,S425_Pav
+426,Window Cleaning,125,25,S426_Win
+426,House Wash,260,60,S426_Hou
+426,Pool Screen Cleaning,255,60,S426_Poo
+427,Paver Sealing,2555,1020,S427_Pav
+428,Pool Screen Cleaning,340,80,S428_Poo
+429,Solar Panel Cleaning,145,30,S429_Sol
+429,House Wash,185,25,S429_Hou
+430,Solar Panel Cleaning,165,40,S430_Sol
+431,Paver Sealing,990,395,S431_Pav
+432,Window Cleaning,120,30,S432_Win
+433,Roof Cleaning,615,115,S433_Roo
+434,Roof Cleaning,1175,345,S434_Roo
+435,Patio/Pool Deck Cleaning,110,20,S435_Pat
+436,Paver Sealing,1565,625,S436_Pav
+437,Roof Cleaning,1440,375,S437_Roo
+438,Pool Screen Cleaning,305,90,S438_Poo
+438,Driveway Cleaning,135,20,S438_Dri
+439,Gutter Cleaning,175,25,S439_Gut
+440,Gutter Cleaning,160,35,S440_Gut
+441,House Wash,270,45,S441_Hou
+441,Roof Cleaning,550,90,S441_Roo
+442,Paver Sealing,2225,890,S442_Pav
+443,Paver Sealing,1670,670,S443_Pav
+444,Roof Cleaning,1115,290,S444_Roo
+444,Solar Panel Cleaning,75,15,S444_Sol
+444,Driveway Cleaning,155,40,S444_Dri
+445,Pool Screen Cleaning,375,40,S445_Poo
+445,Window Cleaning,100,20,S445_Win
+445,House Wash,200,25,S445_Hou
+446,Window Cleaning,90,15,S446_Win
+447,Roof Cleaning,2020,445,S447_Roo
+448,Roof Cleaning,1015,285,S448_Roo
+449,Pool Screen Cleaning,365,55,S449_Poo
+450,Window Cleaning,95,10,S450_Win
+450,Roof Cleaning,1070,245,S450_Roo
+450,Solar Panel Cleaning,150,35,S450_Sol
+451,Gutter Cleaning,150,30,S451_Gut
+452,Paver Sealing,990,395,S452_Pav
+453,Window Cleaning,95,10,S453_Win
+454,Window Cleaning,85,10,S454_Win
+455,Window Cleaning,105,15,S455_Win
+456,Paver Sealing,1355,540,S456_Pav
+457,Driveway Cleaning,185,35,S457_Dri
+457,Gutter Cleaning,80,20,S457_Gut
+457,House Wash,200,35,S457_Hou
+458,Roof Cleaning,795,160,S458_Roo
+458,Patio/Pool Deck Cleaning,165,35,S458_Pat
+459,Paver Sealing,1280,510,S459_Pav
+460,House Wash,320,80,S460_Hou
+460,Patio/Pool Deck Cleaning,140,25,S460_Pat
+460,Window Cleaning,100,30,S460_Win
+461,Solar Panel Cleaning,175,20,S461_Sol
+462,Gutter Cleaning,115,15,S462_Gut
+462,Patio/Pool Deck Cleaning,140,35,S462_Pat
+462,Roof Cleaning,850,105,S462_Roo
+462,Window Cleaning,70,15,S462_Win
+463,Driveway Cleaning,225,40,S463_Dri
+464,Paver Sealing,1560,625,S464_Pav
+465,Roof Cleaning,850,85,S465_Roo
+466,Window Cleaning,105,30,S466_Win
+467,Window Cleaning,95,25,S467_Win
+468,Roof Cleaning,530,55,S468_Roo
+469,Roof Cleaning,1270,250,S469_Roo
+470,Roof Cleaning,1180,200,S470_Roo
+471,Roof Cleaning,585,135,S471_Roo
+471,Solar Panel Cleaning,85,15,S471_Sol
+471,Patio/Pool Deck Cleaning,145,25,S471_Pat
+472,Window Cleaning,110,30,S472_Win
+472,Roof Cleaning,500,110,S472_Roo
+472,Pool Screen Cleaning,255,55,S472_Poo
+473,Solar Panel Cleaning,145,35,S473_Sol
+473,Roof Cleaning,755,130,S473_Roo
+473,House Wash,180,35,S473_Hou
+474,Roof Cleaning,620,65,S474_Roo
+474,Patio/Pool Deck Cleaning,130,30,S474_Pat
+474,Gutter Cleaning,90,10,S474_Gut
+475,Paver Sealing,1255,500,S475_Pav
+476,Driveway Cleaning,190,35,S476_Dri
+476,Solar Panel Cleaning,130,15,S476_Sol
+476,House Wash,220,25,S476_Hou
+477,Gutter Cleaning,140,40,S477_Gut
+478,Roof Cleaning,880,95,S478_Roo
+479,Window Cleaning,50,15,S479_Win
+480,Paver Sealing,1665,665,S480_Pav
+481,Solar Panel Cleaning,170,30,S481_Sol
+482,Solar Panel Cleaning,170,30,S482_Sol
+483,Pool Screen Cleaning,325,55,S483_Poo
+484,Driveway Cleaning,155,20,S484_Dri
+484,Pool Screen Cleaning,305,65,S484_Poo
+484,Window Cleaning,95,25,S484_Win
+485,Gutter Cleaning,115,15,S485_Gut
+486,Roof Cleaning,1130,190,S486_Roo
+487,Gutter Cleaning,135,30,S487_Gut
+487,House Wash,220,40,S487_Hou
+487,Roof Cleaning,1480,440,S487_Roo
+488,Patio/Pool Deck Cleaning,155,15,S488_Pat
+489,Pool Screen Cleaning,335,70,S489_Poo
+489,Driveway Cleaning,95,30,S489_Dri
+489,Solar Panel Cleaning,135,35,S489_Sol
+490,Roof Cleaning,1805,230,S490_Roo
+490,Patio/Pool Deck Cleaning,160,20,S490_Pat
+491,Roof Cleaning,1265,245,S491_Roo
+491,Pool Screen Cleaning,350,70,S491_Poo
+491,Solar Panel Cleaning,145,30,S491_Sol
+492,Roof Cleaning,550,75,S492_Roo
+492,Gutter Cleaning,135,25,S492_Gut
+492,House Wash,220,45,S492_Hou
+493,Solar Panel Cleaning,150,40,S493_Sol
+493,Gutter Cleaning,150,25,S493_Gut
+493,Roof Cleaning,745,200,S493_Roo
+493,Window Cleaning,95,20,S493_Win
+494,Patio/Pool Deck Cleaning,205,40,S494_Pat
+495,Window Cleaning,125,35,S495_Win
+495,Patio/Pool Deck Cleaning,95,25,S495_Pat
+495,Roof Cleaning,1535,345,S495_Roo
+495,House Wash,260,25,S495_Hou
+496,House Wash,250,40,S496_Hou
+496,Solar Panel Cleaning,100,25,S496_Sol
+496,Gutter Cleaning,95,15,S496_Gut
+496,Roof Cleaning,550,160,S496_Roo
+497,Pool Screen Cleaning,305,90,S497_Poo
+497,Patio/Pool Deck Cleaning,150,40,S497_Pat
+498,Solar Panel Cleaning,120,10,S498_Sol
+498,Patio/Pool Deck Cleaning,155,40,S498_Pat
+498,Gutter Cleaning,130,15,S498_Gut
+498,House Wash,240,60,S498_Hou
+499,Driveway Cleaning,150,15,S499_Dri
+499,Roof Cleaning,550,60,S499_Roo
+499,Window Cleaning,65,10,S499_Win
+500,House Wash,280,80,S500_Hou
+500,Window Cleaning,45,15,S500_Win
+500,Solar Panel Cleaning,105,15,S500_Sol
+501,Paver Sealing,990,395,S501_Pav
+502,Window Cleaning,60,10,S502_Win
+502,Driveway Cleaning,105,15,S502_Dri
+502,Gutter Cleaning,95,25,S502_Gut
+503,Gutter Cleaning,185,35,S503_Gut
+504,Window Cleaning,120,20,S504_Win
+505,Patio/Pool Deck Cleaning,165,50,S505_Pat
+506,Paver Sealing,990,395,S506_Pav
+507,Paver Sealing,1745,700,S507_Pav
+508,Paver Sealing,990,395,S508_Pav
+509,Solar Panel Cleaning,165,45,S509_Sol
+509,Roof Cleaning,1640,430,S509_Roo
+510,Gutter Cleaning,170,25,S510_Gut
+511,Gutter Cleaning,125,20,S511_Gut
+512,Gutter Cleaning,150,25,S512_Gut
+512,Roof Cleaning,1100,120,S512_Roo
+512,Window Cleaning,55,15,S512_Win
+513,Window Cleaning,75,20,S513_Win
+513,House Wash,205,25,S513_Hou
+513,Patio/Pool Deck Cleaning,120,20,S513_Pat
+514,Solar Panel Cleaning,165,30,S514_Sol
+515,Roof Cleaning,1205,355,S515_Roo
+516,House Wash,225,55,S516_Hou
+517,Paver Sealing,2020,810,S517_Pav
+518,Patio/Pool Deck Cleaning,165,50,S518_Pat
+518,Gutter Cleaning,120,35,S518_Gut
+518,Roof Cleaning,690,165,S518_Roo
+519,House Wash,280,65,S519_Hou
+520,Roof Cleaning,500,85,S520_Roo
+521,Paver Sealing,1575,630,S521_Pav
+522,Solar Panel Cleaning,125,15,S522_Sol
+522,House Wash,245,45,S522_Hou
+523,Window Cleaning,110,20,S523_Win
+524,Roof Cleaning,1060,250,S524_Roo
+525,Window Cleaning,100,25,S525_Win
+525,Gutter Cleaning,90,20,S525_Gut
+525,House Wash,190,45,S525_Hou
+526,Gutter Cleaning,100,30,S526_Gut
+527,Paver Sealing,2080,830,S527_Pav
+528,Solar Panel Cleaning,175,20,S528_Sol
+529,Driveway Cleaning,250,25,S529_Dri
+530,Driveway Cleaning,140,30,S530_Dri
+530,Roof Cleaning,1090,320,S530_Roo
+530,House Wash,200,45,S530_Hou
+530,Solar Panel Cleaning,90,25,S530_Sol
+531,Paver Sealing,1530,610,S531_Pav
+532,Roof Cleaning,980,150,S532_Roo
+533,Pool Screen Cleaning,305,50,S533_Poo
+534,Patio/Pool Deck Cleaning,195,40,S534_Pat
+534,Driveway Cleaning,110,20,S534_Dri
+534,Solar Panel Cleaning,70,10,S534_Sol
+535,Solar Panel Cleaning,165,40,S535_Sol
+535,Roof Cleaning,1195,305,S535_Roo
+536,Roof Cleaning,550,90,S536_Roo
+536,Patio/Pool Deck Cleaning,95,15,S536_Pat
+536,Window Cleaning,60,10,S536_Win
+537,Paver Sealing,900,360,S537_Pav
+538,Window Cleaning,120,35,S538_Win
+538,Roof Cleaning,1370,160,S538_Roo
+539,Roof Cleaning,1240,215,S539_Roo
+539,Patio/Pool Deck Cleaning,110,15,S539_Pat
+539,Window Cleaning,55,10,S539_Win
+539,Driveway Cleaning,140,30,S539_Dri
+540,House Wash,265,40,S540_Hou
+540,Roof Cleaning,1420,225,S540_Roo
+540,Patio/Pool Deck Cleaning,120,35,S540_Pat
+541,Gutter Cleaning,160,20,S541_Gut
+542,Pool Screen Cleaning,290,85,S542_Poo
+543,Roof Cleaning,1080,215,S543_Roo
+543,Patio/Pool Deck Cleaning,150,15,S543_Pat
+543,Pool Screen Cleaning,270,70,S543_Poo
+543,Window Cleaning,75,15,S543_Win
+544,Roof Cleaning,1100,155,S544_Roo
+544,Patio/Pool Deck Cleaning,90,25,S544_Pat
+545,House Wash,295,40,S545_Hou
+545,Solar Panel Cleaning,135,40,S545_Sol
+545,Window Cleaning,85,25,S545_Win
+546,House Wash,285,45,S546_Hou
+547,Gutter Cleaning,120,25,S547_Gut
+548,Roof Cleaning,500,130,S548_Roo
+548,Solar Panel Cleaning,135,40,S548_Sol
+549,Pool Screen Cleaning,395,80,S549_Poo
+550,Roof Cleaning,2200,330,S550_Roo
+550,House Wash,230,55,S550_Hou
+551,Roof Cleaning,1005,135,S551_Roo
+551,Window Cleaning,75,20,S551_Win
+551,House Wash,200,20,S551_Hou
+552,Paver Sealing,900,360,S552_Pav
+553,Paver Sealing,2290,915,S553_Pav
+554,Patio/Pool Deck Cleaning,190,25,S554_Pat
+555,Paver Sealing,3280,1310,S555_Pav
+556,Paver Sealing,1400,560,S556_Pav
+557,Paver Sealing,1080,430,S557_Pav
+558,Driveway Cleaning,130,35,S558_Dri
+558,Gutter Cleaning,135,40,S558_Gut
+558,Patio/Pool Deck Cleaning,125,20,S558_Pat
+559,Solar Panel Cleaning,145,25,S559_Sol
+560,Window Cleaning,70,20,S560_Win
+561,Driveway Cleaning,105,10,S561_Dri
+561,Roof Cleaning,1760,240,S561_Roo
+561,Gutter Cleaning,130,20,S561_Gut
+562,House Wash,260,55,S562_Hou
+562,Roof Cleaning,695,120,S562_Roo
+563,Paver Sealing,2605,1040,S563_Pav
+564,Window Cleaning,85,15,S564_Win
+565,Patio/Pool Deck Cleaning,135,30,S565_Pat
+566,Window Cleaning,65,10,S566_Win
+567,Solar Panel Cleaning,85,10,S567_Sol
+568,Paver Sealing,1950,780,S568_Pav
+569,House Wash,235,55,S569_Hou
+570,Solar Panel Cleaning,165,35,S570_Sol
+570,Window Cleaning,55,10,S570_Win
+571,Roof Cleaning,1300,140,S571_Roo
+572,Gutter Cleaning,120,25,S572_Gut
+572,Driveway Cleaning,85,25,S572_Dri
+572,Patio/Pool Deck Cleaning,100,15,S572_Pat
+573,Roof Cleaning,1710,460,S573_Roo
+573,Solar Panel Cleaning,95,15,S573_Sol
+573,Patio/Pool Deck Cleaning,105,25,S573_Pat
+574,Window Cleaning,80,20,S574_Win
+575,Patio/Pool Deck Cleaning,175,40,S575_Pat
+575,Pool Screen Cleaning,250,50,S575_Poo
+575,Driveway Cleaning,135,20,S575_Dri
+576,Roof Cleaning,1660,425,S576_Roo
+576,Gutter Cleaning,120,35,S576_Gut
+577,Solar Panel Cleaning,85,15,S577_Sol
+577,Patio/Pool Deck Cleaning,130,20,S577_Pat
+578,Pool Screen Cleaning,340,70,S578_Poo
+579,Gutter Cleaning,125,35,S579_Gut
+580,House Wash,320,75,S580_Hou
+581,Paver Sealing,2345,940,S581_Pav
+582,Paver Sealing,2130,850,S582_Pav
+583,Patio/Pool Deck Cleaning,120,20,S583_Pat
+583,Roof Cleaning,1320,325,S583_Roo
+584,Gutter Cleaning,105,25,S584_Gut
+584,Patio/Pool Deck Cleaning,155,25,S584_Pat
+585,Paver Sealing,2445,980,S585_Pav
+586,Gutter Cleaning,90,25,S586_Gut
+586,Roof Cleaning,1175,175,S586_Roo
+587,Roof Cleaning,1460,295,S587_Roo
+588,Paver Sealing,2375,950,S588_Pav
+589,Paver Sealing,2130,850,S589_Pav
+590,Roof Cleaning,860,135,S590_Roo
+590,Driveway Cleaning,130,30,S590_Dri
+590,Solar Panel Cleaning,125,20,S590_Sol
+591,Patio/Pool Deck Cleaning,160,35,S591_Pat
+591,Pool Screen Cleaning,305,85,S591_Poo
+592,Roof Cleaning,735,155,S592_Roo
+592,Gutter Cleaning,95,15,S592_Gut
+593,Window Cleaning,75,20,S593_Win
+593,Gutter Cleaning,95,10,S593_Gut
+594,Solar Panel Cleaning,120,30,S594_Sol
+594,Window Cleaning,60,5,S594_Win
+595,Roof Cleaning,1660,230,S595_Roo
+596,Roof Cleaning,2005,370,S596_Roo
+597,Paver Sealing,990,395,S597_Pav
+598,Driveway Cleaning,155,20,S598_Dri
+598,Solar Panel Cleaning,150,20,S598_Sol
+598,Roof Cleaning,685,125,S598_Roo
+599,Paver Sealing,2310,925,S599_Pav
+600,Patio/Pool Deck Cleaning,155,25,S600_Pat
+601,Pool Screen Cleaning,340,80,S601_Poo
+601,Roof Cleaning,1780,525,S601_Roo
+602,Pool Screen Cleaning,285,85,S602_Poo
+602,Gutter Cleaning,85,10,S602_Gut
+603,Paver Sealing,2550,1020,S603_Pav
+604,Patio/Pool Deck Cleaning,160,25,S604_Pat
+605,Patio/Pool Deck Cleaning,205,60,S605_Pat
+605,Window Cleaning,50,5,S605_Win
+606,Window Cleaning,95,25,S606_Win
+607,Gutter Cleaning,145,25,S607_Gut
+607,Patio/Pool Deck Cleaning,80,15,S607_Pat
+607,Driveway Cleaning,95,20,S607_Dri
+608,Roof Cleaning,1770,515,S608_Roo
+609,Window Cleaning,110,30,S609_Win
+609,Gutter Cleaning,80,10,S609_Gut
+610,Paver Sealing,1000,400,S610_Pav
+611,Paver Sealing,1635,655,S611_Pav
+612,Window Cleaning,85,20,S612_Win
+613,Roof Cleaning,1110,245,S613_Roo
+614,Paver Sealing,1685,675,S614_Pav
+615,Paver Sealing,1835,735,S615_Pav
+616,Pool Screen Cleaning,335,50,S616_Poo
+616,House Wash,200,30,S616_Hou
+616,Roof Cleaning,1080,120,S616_Roo
+617,Paver Sealing,2120,850,S617_Pav
+618,Patio/Pool Deck Cleaning,180,50,S618_Pat
+618,Driveway Cleaning,115,15,S618_Dri
+618,Gutter Cleaning,110,25,S618_Gut
+619,House Wash,275,55,S619_Hou
+619,Window Cleaning,45,10,S619_Win
+619,Driveway Cleaning,135,30,S619_Dri
+619,Solar Panel Cleaning,105,15,S619_Sol
+620,Roof Cleaning,1325,255,S620_Roo
+620,Pool Screen Cleaning,285,45,S620_Poo
+620,Patio/Pool Deck Cleaning,135,25,S620_Pat
+621,Window Cleaning,90,20,S621_Win
+622,Paver Sealing,1275,510,S622_Pav
+623,Patio/Pool Deck Cleaning,130,25,S623_Pat
+623,Pool Screen Cleaning,225,45,S623_Poo
+623,House Wash,235,30,S623_Hou
+623,Roof Cleaning,1530,385,S623_Roo
+624,Paver Sealing,1375,550,S624_Pav
+625,House Wash,225,30,S625_Hou
+625,Patio/Pool Deck Cleaning,135,35,S625_Pat
+626,Driveway Cleaning,250,40,S626_Dri
+627,Driveway Cleaning,225,35,S627_Dri
+628,House Wash,280,50,S628_Hou
+628,Driveway Cleaning,110,30,S628_Dri
+628,Roof Cleaning,1055,270,S628_Roo
+629,Window Cleaning,85,15,S629_Win
+629,Gutter Cleaning,150,40,S629_Gut
+629,Roof Cleaning,1085,230,S629_Roo
+630,Solar Panel Cleaning,140,20,S630_Sol
+631,House Wash,285,65,S631_Hou
+631,Patio/Pool Deck Cleaning,145,40,S631_Pat
+631,Gutter Cleaning,120,25,S631_Gut
+631,Window Cleaning,75,10,S631_Win
+632,Window Cleaning,110,15,S632_Win
+633,Paver Sealing,920,370,S633_Pav
+634,Window Cleaning,60,5,S634_Win
+635,Gutter Cleaning,105,30,S635_Gut
+635,House Wash,200,35,S635_Hou
+636,Paver Sealing,900,360,S636_Pav
+637,Window Cleaning,75,20,S637_Win
+638,Gutter Cleaning,120,25,S638_Gut
+638,Window Cleaning,80,20,S638_Win
+639,Window Cleaning,65,15,S639_Win
+639,Roof Cleaning,1400,255,S639_Roo
+639,Gutter Cleaning,130,30,S639_Gut
+639,House Wash,205,25,S639_Hou
+640,House Wash,255,35,S640_Hou
+640,Patio/Pool Deck Cleaning,150,20,S640_Pat
+641,Gutter Cleaning,140,25,S641_Gut
+641,Pool Screen Cleaning,245,65,S641_Poo
+642,Paver Sealing,1720,690,S642_Pav
+643,Gutter Cleaning,80,20,S643_Gut
+643,Driveway Cleaning,110,30,S643_Dri
+643,House Wash,225,60,S643_Hou
+644,Paver Sealing,990,395,S644_Pav
+645,House Wash,275,45,S645_Hou
+646,Paver Sealing,1055,420,S646_Pav
+647,Gutter Cleaning,115,30,S647_Gut
+648,Paver Sealing,1705,680,S648_Pav
+649,Solar Panel Cleaning,190,20,S649_Sol
+650,Roof Cleaning,795,140,S650_Roo
+651,Paver Sealing,1770,710,S651_Pav
+652,Gutter Cleaning,110,20,S652_Gut
+652,House Wash,210,25,S652_Hou
+652,Roof Cleaning,875,215,S652_Roo
+653,House Wash,265,65,S653_Hou
+653,Solar Panel Cleaning,65,10,S653_Sol
+654,Window Cleaning,110,30,S654_Win
+654,Roof Cleaning,500,105,S654_Roo
+655,Roof Cleaning,1980,495,S655_Roo
+655,House Wash,245,50,S655_Hou
+655,Driveway Cleaning,95,20,S655_Dri
+655,Window Cleaning,85,20,S655_Win
+656,House Wash,275,75,S656_Hou
+656,Gutter Cleaning,120,25,S656_Gut
+656,Window Cleaning,80,20,S656_Win
+656,Pool Screen Cleaning,280,65,S656_Poo
+657,Pool Screen Cleaning,330,55,S657_Poo
+657,Window Cleaning,60,10,S657_Win
+658,House Wash,265,75,S658_Hou
+659,Paver Sealing,1930,770,S659_Pav
+660,Gutter Cleaning,160,25,S660_Gut
+661,Gutter Cleaning,185,40,S661_Gut
+662,Driveway Cleaning,225,35,S662_Dri
+663,Patio/Pool Deck Cleaning,170,25,S663_Pat
+663,Gutter Cleaning,110,15,S663_Gut
+663,House Wash,215,55,S663_Hou
+664,Roof Cleaning,625,115,S664_Roo
+665,Pool Screen Cleaning,280,45,S665_Poo
+665,House Wash,180,50,S665_Hou
+666,House Wash,250,55,S666_Hou
+667,Patio/Pool Deck Cleaning,190,55,S667_Pat
+668,Patio/Pool Deck Cleaning,200,55,S668_Pat
+669,Window Cleaning,75,15,S669_Win
+669,Driveway Cleaning,90,10,S669_Dri
+669,Roof Cleaning,2000,600,S669_Roo
+670,Window Cleaning,55,10,S670_Win
+671,Pool Screen Cleaning,320,35,S671_Poo
+671,Driveway Cleaning,110,30,S671_Dri
+671,Patio/Pool Deck Cleaning,140,25,S671_Pat
+671,Window Cleaning,85,10,S671_Win
+672,Solar Panel Cleaning,90,25,S672_Sol
+672,Driveway Cleaning,130,35,S672_Dri
+672,Patio/Pool Deck Cleaning,90,25,S672_Pat
+672,Window Cleaning,85,20,S672_Win
+673,Roof Cleaning,690,100,S673_Roo
+673,Window Cleaning,75,20,S673_Win
+674,Window Cleaning,130,20,S674_Win
+674,Solar Panel Cleaning,115,15,S674_Sol
+674,Patio/Pool Deck Cleaning,175,50,S674_Pat
+674,Pool Screen Cleaning,315,80,S674_Poo
+675,Pool Screen Cleaning,365,80,S675_Poo
+676,Window Cleaning,120,15,S676_Win
+676,Driveway Cleaning,110,25,S676_Dri
+676,House Wash,215,50,S676_Hou
+677,Gutter Cleaning,115,15,S677_Gut
+677,House Wash,230,50,S677_Hou
+677,Roof Cleaning,2055,280,S677_Roo
+678,Driveway Cleaning,170,30,S678_Dri
+678,Roof Cleaning,1735,230,S678_Roo
+678,Window Cleaning,45,10,S678_Win
+679,Roof Cleaning,1335,240,S679_Roo
+679,Window Cleaning,50,10,S679_Win
+680,Patio/Pool Deck Cleaning,130,35,S680_Pat
+681,Paver Sealing,3305,1320,S681_Pav
+682,Gutter Cleaning,90,15,S682_Gut
+683,Paver Sealing,3145,1260,S683_Pav
+684,Roof Cleaning,1555,245,S684_Roo
+685,Driveway Cleaning,225,60,S685_Dri
+686,Paver Sealing,1050,420,S686_Pav
+687,Paver Sealing,1305,520,S687_Pav
+688,Solar Panel Cleaning,175,45,S688_Sol
+688,Driveway Cleaning,130,35,S688_Dri
+688,Window Cleaning,45,10,S688_Win
+689,House Wash,225,30,S689_Hou
+690,Roof Cleaning,1100,130,S690_Roo
+690,Patio/Pool Deck Cleaning,105,15,S690_Pat
+691,House Wash,325,80,S691_Hou
+692,Roof Cleaning,500,75,S692_Roo
+693,Window Cleaning,60,10,S693_Win
+694,Gutter Cleaning,115,25,S694_Gut
+694,Driveway Cleaning,85,10,S694_Dri
+694,Solar Panel Cleaning,125,15,S694_Sol
+695,Pool Screen Cleaning,285,55,S695_Poo
+696,Pool Screen Cleaning,345,75,S696_Poo
+696,Roof Cleaning,635,165,S696_Roo
+696,Window Cleaning,55,10,S696_Win
+696,Driveway Cleaning,120,15,S696_Dri
+697,Paver Sealing,1690,675,S697_Pav
+698,Roof Cleaning,685,110,S698_Roo
+699,Roof Cleaning,505,125,S699_Roo
+699,Patio/Pool Deck Cleaning,125,30,S699_Pat
+700,Paver Sealing,900,360,S700_Pav
+701,Roof Cleaning,560,110,S701_Roo
+702,Roof Cleaning,935,230,S702_Roo
+703,Pool Screen Cleaning,380,70,S703_Poo
+703,House Wash,185,35,S703_Hou
+703,Window Cleaning,85,10,S703_Win
+704,Solar Panel Cleaning,100,30,S704_Sol
+704,Roof Cleaning,1230,265,S704_Roo
+705,Paver Sealing,990,395,S705_Pav
+706,House Wash,255,45,S706_Hou
+706,Pool Screen Cleaning,285,35,S706_Poo
+706,Window Cleaning,75,10,S706_Win
+707,Solar Panel Cleaning,105,15,S707_Sol
+708,Pool Screen Cleaning,390,115,S708_Poo
+709,Paver Sealing,900,360,S709_Pav
+710,House Wash,280,75,S710_Hou
+710,Roof Cleaning,1330,345,S710_Roo
+711,Patio/Pool Deck Cleaning,120,30,S711_Pat
+712,Paver Sealing,1160,465,S712_Pav
+713,Roof Cleaning,760,75,S713_Roo
+713,House Wash,230,60,S713_Hou
+714,Paver Sealing,2685,1075,S714_Pav
+715,Pool Screen Cleaning,320,40,S715_Poo
+716,Gutter Cleaning,110,15,S716_Gut
+717,Window Cleaning,70,20,S717_Win
+718,Gutter Cleaning,140,25,S718_Gut
+718,Pool Screen Cleaning,310,95,S718_Poo
+719,Paver Sealing,2365,945,S719_Pav
+720,Patio/Pool Deck Cleaning,175,30,S720_Pat
+720,Window Cleaning,90,10,S720_Win
+721,Paver Sealing,3530,1410,S721_Pav
+722,Window Cleaning,55,10,S722_Win
+723,House Wash,270,70,S723_Hou
+723,Roof Cleaning,1330,175,S723_Roo
+724,Roof Cleaning,1075,160,S724_Roo
+724,House Wash,180,45,S724_Hou
+724,Window Cleaning,45,10,S724_Win
+725,Roof Cleaning,975,170,S725_Roo
+725,House Wash,245,45,S725_Hou
+725,Patio/Pool Deck Cleaning,155,20,S725_Pat
+725,Gutter Cleaning,135,20,S725_Gut
+726,Window Cleaning,60,5,S726_Win
+726,House Wash,250,50,S726_Hou
+726,Roof Cleaning,815,140,S726_Roo
+727,House Wash,250,75,S727_Hou
+727,Pool Screen Cleaning,315,90,S727_Poo
+728,Patio/Pool Deck Cleaning,125,30,S728_Pat
+728,Solar Panel Cleaning,115,20,S728_Sol
+729,Roof Cleaning,1620,475,S729_Roo
+729,Patio/Pool Deck Cleaning,90,20,S729_Pat
+730,Driveway Cleaning,170,40,S730_Dri
+730,Gutter Cleaning,155,25,S730_Gut
+730,Solar Panel Cleaning,100,10,S730_Sol
+731,Driveway Cleaning,135,20,S731_Dri
+731,Solar Panel Cleaning,90,25,S731_Sol
+731,Gutter Cleaning,135,20,S731_Gut
+732,Roof Cleaning,610,180,S732_Roo
+733,Patio/Pool Deck Cleaning,145,30,S733_Pat
+734,Solar Panel Cleaning,155,40,S734_Sol
+734,Window Cleaning,95,20,S734_Win
+734,Roof Cleaning,1375,385,S734_Roo
+735,House Wash,250,35,S735_Hou
+735,Window Cleaning,90,15,S735_Win
+735,Driveway Cleaning,115,30,S735_Dri
+735,Pool Screen Cleaning,340,95,S735_Poo
+736,Roof Cleaning,1670,260,S736_Roo
+737,Paver Sealing,900,360,S737_Pav
+738,House Wash,250,60,S738_Hou
+738,Window Cleaning,80,15,S738_Win
+738,Pool Screen Cleaning,295,45,S738_Poo
+739,Driveway Cleaning,225,50,S739_Dri
+740,Driveway Cleaning,250,30,S740_Dri
+741,Roof Cleaning,1370,360,S741_Roo
+742,Window Cleaning,100,25,S742_Win
+743,House Wash,320,60,S743_Hou
+744,Patio/Pool Deck Cleaning,185,50,S744_Pat
+745,Patio/Pool Deck Cleaning,220,30,S745_Pat
+746,Roof Cleaning,1320,150,S746_Roo
+746,Gutter Cleaning,120,30,S746_Gut
+747,Pool Screen Cleaning,295,65,S747_Poo
+748,Roof Cleaning,1395,370,S748_Roo
+749,Driveway Cleaning,225,40,S749_Dri
+750,Paver Sealing,1475,590,S750_Pav
+751,Roof Cleaning,895,130,S751_Roo
+752,Paver Sealing,3420,1370,S752_Pav
+753,Paver Sealing,2715,1085,S753_Pav
+754,House Wash,260,70,S754_Hou
+754,Gutter Cleaning,100,15,S754_Gut
+754,Window Cleaning,50,10,S754_Win
+754,Roof Cleaning,950,185,S754_Roo
+755,Roof Cleaning,875,155,S755_Roo
+755,Gutter Cleaning,125,35,S755_Gut
+756,Pool Screen Cleaning,390,50,S756_Poo
+757,Patio/Pool Deck Cleaning,195,45,S757_Pat
+758,Roof Cleaning,1375,270,S758_Roo
+758,Window Cleaning,65,10,S758_Win
+759,Paver Sealing,900,360,S759_Pav
+760,Paver Sealing,1580,630,S760_Pav
+761,Paver Sealing,2090,835,S761_Pav
+762,Paver Sealing,1725,690,S762_Pav
+763,Paver Sealing,1925,770,S763_Pav
+764,Solar Panel Cleaning,150,25,S764_Sol
+765,Paver Sealing,2135,855,S765_Pav
+766,Window Cleaning,110,15,S766_Win
+766,Patio/Pool Deck Cleaning,125,15,S766_Pat
+766,House Wash,200,55,S766_Hou
+767,Pool Screen Cleaning,310,55,S767_Poo
+768,Solar Panel Cleaning,110,20,S768_Sol
+769,Patio/Pool Deck Cleaning,190,55,S769_Pat
+770,Window Cleaning,105,20,S770_Win
+771,Paver Sealing,1760,705,S771_Pav
+772,Window Cleaning,110,20,S772_Win
+772,Roof Cleaning,2110,520,S772_Roo
+772,Gutter Cleaning,140,20,S772_Gut
+772,Patio/Pool Deck Cleaning,160,35,S772_Pat
+773,Paver Sealing,1595,640,S773_Pav
+774,Window Cleaning,115,25,S774_Win
+774,Pool Screen Cleaning,270,45,S774_Poo
+774,Gutter Cleaning,110,20,S774_Gut
+775,Pool Screen Cleaning,435,130,S775_Poo
+776,House Wash,265,70,S776_Hou
+777,Pool Screen Cleaning,435,80,S777_Poo
+777,Patio/Pool Deck Cleaning,155,25,S777_Pat
+777,Roof Cleaning,1380,410,S777_Roo
+777,House Wash,200,45,S777_Hou
+778,Solar Panel Cleaning,185,25,S778_Sol
+779,Driveway Cleaning,160,25,S779_Dri
+779,Gutter Cleaning,95,20,S779_Gut
+780,Solar Panel Cleaning,95,15,S780_Sol
+780,Patio/Pool Deck Cleaning,140,40,S780_Pat
+781,Solar Panel Cleaning,80,20,S781_Sol
+781,Window Cleaning,75,10,S781_Win
+782,Roof Cleaning,1005,275,S782_Roo
+782,House Wash,260,50,S782_Hou
+783,House Wash,285,30,S783_Hou
+784,Paver Sealing,1195,480,S784_Pav
+785,Driveway Cleaning,225,50,S785_Dri
+786,Patio/Pool Deck Cleaning,140,40,S786_Pat
+786,House Wash,205,30,S786_Hou
+787,Paver Sealing,2505,1000,S787_Pav
+788,Gutter Cleaning,95,20,S788_Gut
+788,Solar Panel Cleaning,140,35,S788_Sol
+788,Roof Cleaning,550,80,S788_Roo
+788,Patio/Pool Deck Cleaning,110,30,S788_Pat
+789,Roof Cleaning,500,135,S789_Roo
+790,Driveway Cleaning,225,25,S790_Dri
+791,Gutter Cleaning,130,25,S791_Gut
+792,Pool Screen Cleaning,325,70,S792_Poo
+793,House Wash,250,40,S793_Hou
+794,House Wash,260,45,S794_Hou
+795,Paver Sealing,1225,490,S795_Pav
+796,Paver Sealing,900,360,S796_Pav
+797,Window Cleaning,115,30,S797_Win
+797,Patio/Pool Deck Cleaning,105,15,S797_Pat
+798,Solar Panel Cleaning,160,40,S798_Sol
+799,Patio/Pool Deck Cleaning,175,30,S799_Pat
+799,Gutter Cleaning,115,20,S799_Gut
+799,Window Cleaning,45,15,S799_Win
+800,Paver Sealing,2220,890,S800_Pav
+801,Paver Sealing,2315,925,S801_Pav
+802,Window Cleaning,105,20,S802_Win
+803,Paver Sealing,3370,1350,S803_Pav
+804,Gutter Cleaning,145,40,S804_Gut
+805,House Wash,270,70,S805_Hou
+805,Patio/Pool Deck Cleaning,125,30,S805_Pat
+806,Patio/Pool Deck Cleaning,210,65,S806_Pat
+807,House Wash,275,40,S807_Hou
+807,Roof Cleaning,1550,255,S807_Roo
+808,Window Cleaning,90,15,S808_Win
+809,House Wash,275,40,S809_Hou
+809,Window Cleaning,80,10,S809_Win
+810,Window Cleaning,95,25,S810_Win
+810,Driveway Cleaning,95,10,S810_Dri
+811,Paver Sealing,2155,860,S811_Pav
+812,Paver Sealing,1015,405,S812_Pav
+813,Window Cleaning,85,10,S813_Win
+813,Roof Cleaning,1725,200,S813_Roo
+813,Driveway Cleaning,95,10,S813_Dri
+814,Pool Screen Cleaning,355,65,S814_Poo
+814,Patio/Pool Deck Cleaning,125,15,S814_Pat
+815,Roof Cleaning,1190,255,S815_Roo
+816,Paver Sealing,2585,1035,S816_Pav
+817,Driveway Cleaning,225,45,S817_Dri
+818,Pool Screen Cleaning,295,70,S818_Poo
+818,Roof Cleaning,1215,290,S818_Roo
+819,Patio/Pool Deck Cleaning,190,50,S819_Pat
+819,Window Cleaning,80,20,S819_Win
+820,Paver Sealing,900,360,S820_Pav
+821,Pool Screen Cleaning,310,45,S821_Poo
+821,Patio/Pool Deck Cleaning,135,30,S821_Pat
+821,Solar Panel Cleaning,110,10,S821_Sol
+821,Roof Cleaning,650,150,S821_Roo
+822,Paver Sealing,2540,1015,S822_Pav
+823,House Wash,225,60,S823_Hou
+824,Paver Sealing,1785,715,S824_Pav
+825,Window Cleaning,50,10,S825_Win
+825,Solar Panel Cleaning,90,15,S825_Sol
+826,Roof Cleaning,1425,145,S826_Roo
+826,Solar Panel Cleaning,105,30,S826_Sol
+826,Window Cleaning,95,20,S826_Win
+827,House Wash,275,30,S827_Hou
+827,Window Cleaning,80,15,S827_Win
+827,Patio/Pool Deck Cleaning,140,25,S827_Pat
+827,Roof Cleaning,1030,170,S827_Roo
+828,House Wash,280,75,S828_Hou
+828,Roof Cleaning,1095,330,S828_Roo
+829,Roof Cleaning,1910,315,S829_Roo
+829,Driveway Cleaning,110,20,S829_Dri
+829,Gutter Cleaning,125,30,S829_Gut
+830,Patio/Pool Deck Cleaning,165,20,S830_Pat
+830,Roof Cleaning,1270,275,S830_Roo
+831,House Wash,275,60,S831_Hou
+831,Patio/Pool Deck Cleaning,95,10,S831_Pat
+831,Roof Cleaning,870,195,S831_Roo
+832,Window Cleaning,115,15,S832_Win
+832,Pool Screen Cleaning,235,70,S832_Poo
+833,House Wash,250,50,S833_Hou
+833,Roof Cleaning,550,120,S833_Roo
+834,Paver Sealing,2545,1020,S834_Pav
+835,Patio/Pool Deck Cleaning,200,20,S835_Pat
+835,Window Cleaning,75,20,S835_Win
+835,House Wash,200,30,S835_Hou
+836,House Wash,265,50,S836_Hou
+836,Window Cleaning,50,10,S836_Win
+837,Paver Sealing,3425,1370,S837_Pav
+838,Solar Panel Cleaning,135,25,S838_Sol
+839,Window Cleaning,75,10,S839_Win
+840,Solar Panel Cleaning,120,30,S840_Sol
+840,Window Cleaning,65,10,S840_Win
+841,Gutter Cleaning,170,25,S841_Gut
+841,Window Cleaning,45,10,S841_Win
+841,Solar Panel Cleaning,140,25,S841_Sol
+841,Patio/Pool Deck Cleaning,85,15,S841_Pat
+842,Window Cleaning,90,10,S842_Win
+843,Driveway Cleaning,130,15,S843_Dri
+843,Window Cleaning,95,15,S843_Win
+844,Roof Cleaning,1890,355,S844_Roo
+844,Pool Screen Cleaning,285,30,S844_Poo
+844,Solar Panel Cleaning,125,35,S844_Sol
+845,Window Cleaning,100,30,S845_Win
+845,Roof Cleaning,540,70,S845_Roo
+846,Paver Sealing,935,375,S846_Pav
+847,Solar Panel Cleaning,115,15,S847_Sol
+848,Paver Sealing,1440,575,S848_Pav
+849,Paver Sealing,1665,665,S849_Pav
+850,House Wash,310,65,S850_Hou
+851,Solar Panel Cleaning,95,20,S851_Sol
+851,Roof Cleaning,835,235,S851_Roo
+852,Window Cleaning,90,15,S852_Win
+853,Window Cleaning,135,35,S853_Win
+853,Gutter Cleaning,120,30,S853_Gut
+854,Solar Panel Cleaning,95,20,S854_Sol
+854,House Wash,230,60,S854_Hou
+854,Roof Cleaning,820,235,S854_Roo
+854,Patio/Pool Deck Cleaning,100,30,S854_Pat
+855,Solar Panel Cleaning,85,15,S855_Sol
+855,Pool Screen Cleaning,270,60,S855_Poo
+855,Roof Cleaning,1550,445,S855_Roo
+856,Solar Panel Cleaning,145,30,S856_Sol
+857,Solar Panel Cleaning,175,20,S857_Sol
+857,Gutter Cleaning,125,20,S857_Gut
+858,Paver Sealing,1460,585,S858_Pav
+859,Pool Screen Cleaning,385,110,S859_Poo
+860,Roof Cleaning,565,100,S860_Roo
+861,Paver Sealing,2135,855,S861_Pav
+862,Window Cleaning,120,25,S862_Win
+863,Solar Panel Cleaning,120,35,S863_Sol
+864,House Wash,255,55,S864_Hou
+865,Paver Sealing,2130,850,S865_Pav
+866,Pool Screen Cleaning,310,70,S866_Poo
+866,Gutter Cleaning,135,30,S866_Gut
+866,Window Cleaning,60,15,S866_Win
+867,House Wash,225,40,S867_Hou
+868,Driveway Cleaning,250,45,S868_Dri
+869,Roof Cleaning,1645,210,S869_Roo
+869,Patio/Pool Deck Cleaning,120,15,S869_Pat
+870,Gutter Cleaning,180,40,S870_Gut
+871,Paver Sealing,1300,520,S871_Pav
+872,Window Cleaning,55,15,S872_Win
+873,Window Cleaning,60,10,S873_Win
+873,Solar Panel Cleaning,80,10,S873_Sol
+873,Roof Cleaning,550,95,S873_Roo
+873,Pool Screen Cleaning,350,85,S873_Poo
+874,Patio/Pool Deck Cleaning,140,30,S874_Pat
+875,Roof Cleaning,1160,230,S875_Roo
+875,Solar Panel Cleaning,95,10,S875_Sol
+875,Pool Screen Cleaning,255,35,S875_Poo
+876,Paver Sealing,2825,1130,S876_Pav
+877,Gutter Cleaning,100,15,S877_Gut
+878,Window Cleaning,85,25,S878_Win
+878,Pool Screen Cleaning,225,35,S878_Poo
+879,Paver Sealing,2130,850,S879_Pav
+880,Patio/Pool Deck Cleaning,200,30,S880_Pat
+880,Pool Screen Cleaning,305,80,S880_Poo
+881,Window Cleaning,125,15,S881_Win
+881,House Wash,225,40,S881_Hou
+881,Gutter Cleaning,120,20,S881_Gut
+881,Pool Screen Cleaning,280,75,S881_Poo
+882,Roof Cleaning,700,130,S882_Roo
+883,Roof Cleaning,1310,275,S883_Roo
+883,House Wash,190,40,S883_Hou
+884,Pool Screen Cleaning,360,65,S884_Poo
+884,Driveway Cleaning,90,10,S884_Dri
+884,Gutter Cleaning,135,35,S884_Gut
+885,Paver Sealing,2695,1080,S885_Pav
+886,Patio/Pool Deck Cleaning,150,30,S886_Pat
+887,Driveway Cleaning,145,20,S887_Dri
+887,Gutter Cleaning,100,20,S887_Gut
+887,Roof Cleaning,515,110,S887_Roo
+888,Roof Cleaning,1700,360,S888_Roo
+888,Gutter Cleaning,85,20,S888_Gut
+889,Solar Panel Cleaning,125,15,S889_Sol
+890,Window Cleaning,75,15,S890_Win
+890,Solar Panel Cleaning,120,25,S890_Sol
+890,Gutter Cleaning,95,10,S890_Gut
+891,Pool Screen Cleaning,335,55,S891_Poo
+891,Roof Cleaning,790,195,S891_Roo
+892,Paver Sealing,990,395,S892_Pav
+893,Gutter Cleaning,155,35,S893_Gut
+894,House Wash,320,45,S894_Hou
+894,Driveway Cleaning,90,25,S894_Dri
+894,Patio/Pool Deck Cleaning,140,40,S894_Pat
+894,Window Cleaning,85,20,S894_Win
+895,Pool Screen Cleaning,325,50,S895_Poo
+895,Roof Cleaning,1175,165,S895_Roo
+895,Driveway Cleaning,105,15,S895_Dri
+896,Window Cleaning,90,20,S896_Win
+897,Window Cleaning,90,20,S897_Win
+897,Driveway Cleaning,95,10,S897_Dri
+898,Driveway Cleaning,225,35,S898_Dri
+899,Pool Screen Cleaning,355,85,S899_Poo
+900,Gutter Cleaning,170,50,S900_Gut
+900,Driveway Cleaning,90,10,S900_Dri
+901,House Wash,265,60,S901_Hou
+902,Roof Cleaning,615,170,S902_Roo
+902,Window Cleaning,45,5,S902_Win
+903,Solar Panel Cleaning,100,15,S903_Sol
+903,Patio/Pool Deck Cleaning,150,30,S903_Pat
+903,Driveway Cleaning,120,20,S903_Dri
+904,Roof Cleaning,1765,320,S904_Roo
+905,Pool Screen Cleaning,330,95,S905_Poo
+905,Solar Panel Cleaning,125,35,S905_Sol
+906,Paver Sealing,2430,970,S906_Pav
+907,Pool Screen Cleaning,395,95,S907_Poo
+907,Solar Panel Cleaning,120,15,S907_Sol
+907,Roof Cleaning,1790,360,S907_Roo
+908,Paver Sealing,1155,460,S908_Pav
+909,House Wash,265,40,S909_Hou
+909,Roof Cleaning,550,75,S909_Roo
+910,Gutter Cleaning,170,50,S910_Gut
+910,House Wash,210,55,S910_Hou
+911,Pool Screen Cleaning,395,70,S911_Poo
+912,Patio/Pool Deck Cleaning,145,15,S912_Pat
+912,Window Cleaning,75,10,S912_Win
+912,Solar Panel Cleaning,90,15,S912_Sol
+913,Gutter Cleaning,180,50,S913_Gut
+914,Roof Cleaning,820,195,S914_Roo
+915,Pool Screen Cleaning,370,85,S915_Poo
+916,Roof Cleaning,1310,265,S916_Roo
+917,Roof Cleaning,1140,265,S917_Roo
+917,Gutter Cleaning,135,35,S917_Gut
+918,House Wash,250,60,S918_Hou
+919,Roof Cleaning,1270,315,S919_Roo
+919,Driveway Cleaning,120,20,S919_Dri
+919,Window Cleaning,90,10,S919_Win
+919,Patio/Pool Deck Cleaning,85,20,S919_Pat
+920,Driveway Cleaning,125,35,S920_Dri
+920,Patio/Pool Deck Cleaning,135,20,S920_Pat
+921,Pool Screen Cleaning,365,75,S921_Poo
+922,Paver Sealing,2025,810,S922_Pav
+923,Window Cleaning,60,15,S923_Win
+923,Roof Cleaning,1520,355,S923_Roo
+924,Gutter Cleaning,180,45,S924_Gut
+925,House Wash,295,70,S925_Hou
+925,Patio/Pool Deck Cleaning,130,20,S925_Pat
+925,Solar Panel Cleaning,85,25,S925_Sol
+926,Paver Sealing,2635,1055,S926_Pav
+927,Patio/Pool Deck Cleaning,100,20,S927_Pat
+928,Paver Sealing,1015,405,S928_Pav
+929,House Wash,260,55,S929_Hou
+930,House Wash,225,65,S930_Hou
+931,Window Cleaning,70,10,S931_Win
+931,Roof Cleaning,1600,295,S931_Roo
+931,Solar Panel Cleaning,95,25,S931_Sol
+932,Window Cleaning,70,20,S932_Win
+933,Paver Sealing,2965,1185,S933_Pav
+934,Solar Panel Cleaning,115,30,S934_Sol
+934,Driveway Cleaning,120,20,S934_Dri
+935,Window Cleaning,55,10,S935_Win
+935,House Wash,195,30,S935_Hou
+936,Paver Sealing,2180,870,S936_Pav
+937,House Wash,225,30,S937_Hou
+938,Gutter Cleaning,130,20,S938_Gut
+938,Roof Cleaning,1440,250,S938_Roo
+938,House Wash,210,50,S938_Hou
+938,Window Cleaning,45,5,S938_Win
+939,Roof Cleaning,1150,300,S939_Roo
+940,House Wash,235,45,S940_Hou
+941,Window Cleaning,110,20,S941_Win
+941,Pool Screen Cleaning,320,65,S941_Poo
+941,Patio/Pool Deck Cleaning,160,40,S941_Pat
+942,House Wash,225,45,S942_Hou
+942,Roof Cleaning,875,260,S942_Roo
+943,Window Cleaning,115,15,S943_Win
+943,Gutter Cleaning,120,20,S943_Gut
+943,Solar Panel Cleaning,65,10,S943_Sol
+944,Driveway Cleaning,225,60,S944_Dri
+945,House Wash,225,35,S945_Hou
+946,Patio/Pool Deck Cleaning,105,15,S946_Pat
+947,House Wash,265,45,S947_Hou
+948,Roof Cleaning,1025,165,S948_Roo
+949,Gutter Cleaning,110,15,S949_Gut
+950,Paver Sealing,1340,535,S950_Pav
+951,House Wash,290,35,S951_Hou
+952,Solar Panel Cleaning,160,35,S952_Sol
+952,Window Cleaning,45,15,S952_Win
+953,Patio/Pool Deck Cleaning,205,20,S953_Pat
+953,Pool Screen Cleaning,300,75,S953_Poo
+954,Driveway Cleaning,225,65,S954_Dri
+955,Solar Panel Cleaning,105,15,S955_Sol
+956,Pool Screen Cleaning,320,55,S956_Poo
+957,Paver Sealing,990,395,S957_Pav
+958,Paver Sealing,1900,760,S958_Pav
+959,House Wash,280,70,S959_Hou
+959,Pool Screen Cleaning,285,35,S959_Poo
+960,Paver Sealing,900,360,S960_Pav
+961,Gutter Cleaning,95,15,S961_Gut
+961,Roof Cleaning,550,100,S961_Roo
+962,Window Cleaning,135,15,S962_Win
+962,Patio/Pool Deck Cleaning,155,20,S962_Pat
+963,Pool Screen Cleaning,400,70,S963_Poo
+963,Roof Cleaning,765,175,S963_Roo
+963,Window Cleaning,50,5,S963_Win
+964,House Wash,255,40,S964_Hou
+964,Gutter Cleaning,125,20,S964_Gut
+964,Roof Cleaning,1855,240,S964_Roo
+964,Driveway Cleaning,125,35,S964_Dri
+965,Gutter Cleaning,130,15,S965_Gut
+965,Solar Panel Cleaning,85,15,S965_Sol
+966,Paver Sealing,2385,955,S966_Pav
+967,House Wash,310,45,S967_Hou
+967,Gutter Cleaning,110,30,S967_Gut
+968,House Wash,225,25,S968_Hou
+969,Driveway Cleaning,225,55,S969_Dri
+970,Window Cleaning,75,10,S970_Win
+970,Patio/Pool Deck Cleaning,130,20,S970_Pat
+970,House Wash,190,20,S970_Hou
+971,Paver Sealing,990,395,S971_Pav
+972,Roof Cleaning,625,100,S972_Roo
+972,House Wash,255,35,S972_Hou
+972,Gutter Cleaning,150,20,S972_Gut
+973,House Wash,225,30,S973_Hou
+974,Paver Sealing,1720,690,S974_Pav
+975,House Wash,290,50,S975_Hou
+976,Driveway Cleaning,250,75,S976_Dri
+977,Window Cleaning,115,25,S977_Win
+977,Roof Cleaning,1080,155,S977_Roo
+978,Driveway Cleaning,170,30,S978_Dri
+978,House Wash,200,35,S978_Hou
+978,Patio/Pool Deck Cleaning,155,35,S978_Pat
+978,Roof Cleaning,500,125,S978_Roo
+979,Paver Sealing,1165,465,S979_Pav
+980,Patio/Pool Deck Cleaning,145,40,S980_Pat
+980,Pool Screen Cleaning,255,65,S980_Poo
+980,Gutter Cleaning,135,30,S980_Gut
+980,Roof Cleaning,1635,405,S980_Roo
+981,Driveway Cleaning,225,40,S981_Dri
+982,House Wash,265,50,S982_Hou
+983,Roof Cleaning,730,165,S983_Roo
+983,House Wash,180,45,S983_Hou
+984,Driveway Cleaning,250,40,S984_Dri
+985,Gutter Cleaning,170,40,S985_Gut
+985,House Wash,235,45,S985_Hou
+985,Solar Panel Cleaning,100,30,S985_Sol
+986,Solar Panel Cleaning,130,30,S986_Sol
+987,Paver Sealing,2635,1055,S987_Pav
+988,Driveway Cleaning,105,30,S988_Dri
+988,House Wash,180,40,S988_Hou
+988,Pool Screen Cleaning,305,65,S988_Poo
+989,Solar Panel Cleaning,135,35,S989_Sol
+990,Gutter Cleaning,85,25,S990_Gut
+990,Roof Cleaning,925,245,S990_Roo
+990,Driveway Cleaning,115,20,S990_Dri
+991,Gutter Cleaning,125,35,S991_Gut
+991,House Wash,185,50,S991_Hou
+991,Pool Screen Cleaning,230,60,S991_Poo
+992,House Wash,315,45,S992_Hou
+992,Patio/Pool Deck Cleaning,125,15,S992_Pat
+992,Roof Cleaning,785,190,S992_Roo
+992,Pool Screen Cleaning,300,70,S992_Poo
+993,Pool Screen Cleaning,280,45,S993_Poo
+993,House Wash,205,55,S993_Hou
+993,Window Cleaning,80,15,S993_Win
+994,Paver Sealing,1435,575,S994_Pav
+995,Roof Cleaning,820,170,S995_Roo
+995,House Wash,225,50,S995_Hou
+996,Pool Screen Cleaning,295,50,S996_Poo
+996,Solar Panel Cleaning,110,30,S996_Sol
+997,Paver Sealing,2740,1095,S997_Pav
+998,Driveway Cleaning,160,30,S998_Dri
+998,Roof Cleaning,2040,420,S998_Roo
+998,Patio/Pool Deck Cleaning,115,25,S998_Pat
+999,House Wash,250,65,S999_Hou
+999,Pool Screen Cleaning,260,30,S999_Poo
+999,Solar Panel Cleaning,105,25,S999_Sol
+1000,Window Cleaning,100,15,S1000_Win
+1001,House Wash,300,30,S1001_Hou
+1001,Gutter Cleaning,110,20,S1001_Gut
+1002,Patio/Pool Deck Cleaning,190,20,S1002_Pat
+1002,Window Cleaning,75,20,S1002_Win
+1003,Roof Cleaning,670,195,S1003_Roo
+1003,Solar Panel Cleaning,105,25,S1003_Sol
+1004,Paver Sealing,1735,695,S1004_Pav
+1005,Window Cleaning,60,15,S1005_Win
+1005,Roof Cleaning,740,150,S1005_Roo
+1006,Solar Panel Cleaning,150,20,S1006_Sol
+1007,Driveway Cleaning,250,25,S1007_Dri
+1008,Patio/Pool Deck Cleaning,155,15,S1008_Pat
+1008,Roof Cleaning,875,165,S1008_Roo
+1009,Paver Sealing,2950,1180,S1009_Pav
+1010,Roof Cleaning,2225,270,S1010_Roo
+1010,House Wash,210,25,S1010_Hou
+1011,Driveway Cleaning,225,50,S1011_Dri
+1012,House Wash,270,55,S1012_Hou
+1012,Window Cleaning,95,15,S1012_Win
+1013,Paver Sealing,2215,885,S1013_Pav
+1014,Gutter Cleaning,115,30,S1014_Gut
+1015,Window Cleaning,100,20,S1015_Win
+1015,House Wash,200,20,S1015_Hou
+1016,Window Cleaning,120,20,S1016_Win
+1017,Gutter Cleaning,160,45,S1017_Gut
+1017,Roof Cleaning,1090,235,S1017_Roo
+1018,Driveway Cleaning,165,35,S1018_Dri
+1018,Patio/Pool Deck Cleaning,90,15,S1018_Pat
+1018,Window Cleaning,50,15,S1018_Win
+1019,Pool Screen Cleaning,370,85,S1019_Poo
+1020,Roof Cleaning,645,160,S1020_Roo
+1020,Gutter Cleaning,100,15,S1020_Gut
+1021,Gutter Cleaning,120,25,S1021_Gut
+1022,Roof Cleaning,895,115,S1022_Roo
+1022,Solar Panel Cleaning,85,20,S1022_Sol
+1022,Patio/Pool Deck Cleaning,125,25,S1022_Pat
+1022,House Wash,200,20,S1022_Hou
+1023,House Wash,245,65,S1023_Hou
+1023,Window Cleaning,95,10,S1023_Win
+1023,Roof Cleaning,1530,270,S1023_Roo
+1024,Pool Screen Cleaning,390,100,S1024_Poo
+1024,Gutter Cleaning,135,30,S1024_Gut
+1025,Pool Screen Cleaning,350,85,S1025_Poo
+1026,Pool Screen Cleaning,410,115,S1026_Poo
+1027,Paver Sealing,1665,665,S1027_Pav
+1028,Roof Cleaning,1020,160,S1028_Roo
+1029,Window Cleaning,125,20,S1029_Win
+1029,Driveway Cleaning,130,25,S1029_Dri
+1029,Roof Cleaning,790,215,S1029_Roo
+1030,Roof Cleaning,840,210,S1030_Roo
+1031,Roof Cleaning,555,100,S1031_Roo
+1031,Driveway Cleaning,115,20,S1031_Dri
+1031,Window Cleaning,85,10,S1031_Win
+1032,Driveway Cleaning,125,20,S1032_Dri
+1032,Solar Panel Cleaning,105,10,S1032_Sol
+1032,Roof Cleaning,1735,225,S1032_Roo
+1033,Pool Screen Cleaning,360,70,S1033_Poo
+1034,Pool Screen Cleaning,275,65,S1034_Poo
+1034,Window Cleaning,80,10,S1034_Win
+1035,Pool Screen Cleaning,320,95,S1035_Poo
+1036,Solar Panel Cleaning,150,40,S1036_Sol
+1037,Paver Sealing,1945,780,S1037_Pav
+1038,Roof Cleaning,1035,200,S1038_Roo
+1039,Solar Panel Cleaning,160,30,S1039_Sol
+1039,House Wash,180,40,S1039_Hou
+1039,Patio/Pool Deck Cleaning,115,30,S1039_Pat
+1040,Driveway Cleaning,225,30,S1040_Dri
+1041,Window Cleaning,125,25,S1041_Win
+1041,Gutter Cleaning,75,20,S1041_Gut
+1042,Paver Sealing,2485,995,S1042_Pav
+1043,Paver Sealing,1360,545,S1043_Pav
+1044,Paver Sealing,1545,620,S1044_Pav
+1045,House Wash,250,35,S1045_Hou
+1045,Pool Screen Cleaning,280,80,S1045_Poo
+1045,Gutter Cleaning,100,30,S1045_Gut
+1045,Driveway Cleaning,120,15,S1045_Dri
+1046,Solar Panel Cleaning,180,35,S1046_Sol
+1047,Patio/Pool Deck Cleaning,110,25,S1047_Pat
+1047,Gutter Cleaning,85,10,S1047_Gut
+1047,Solar Panel Cleaning,65,5,S1047_Sol
+1048,Patio/Pool Deck Cleaning,195,25,S1048_Pat
+1049,Roof Cleaning,1020,210,S1049_Roo
+1050,Paver Sealing,2585,1035,S1050_Pav
+1051,Window Cleaning,115,20,S1051_Win
+1052,Gutter Cleaning,150,45,S1052_Gut
+1053,Solar Panel Cleaning,190,25,S1053_Sol
+1054,Window Cleaning,105,15,S1054_Win
+1055,Driveway Cleaning,225,35,S1055_Dri
+1056,Roof Cleaning,705,90,S1056_Roo
+1056,Gutter Cleaning,95,20,S1056_Gut
+1057,Solar Panel Cleaning,105,15,S1057_Sol
+1058,Window Cleaning,95,25,S1058_Win
+1058,Patio/Pool Deck Cleaning,80,20,S1058_Pat
+1058,House Wash,235,30,S1058_Hou
+1059,Solar Panel Cleaning,95,30,S1059_Sol
+1060,Driveway Cleaning,140,15,S1060_Dri
+1060,House Wash,180,35,S1060_Hou
+1061,Paver Sealing,1720,690,S1061_Pav
+1062,Pool Screen Cleaning,340,70,S1062_Poo
+1062,Window Cleaning,65,10,S1062_Win
+1063,Paver Sealing,3610,1445,S1063_Pav
+1064,Roof Cleaning,1190,285,S1064_Roo
+1065,Window Cleaning,110,15,S1065_Win
+1065,Gutter Cleaning,95,15,S1065_Gut
+1065,Solar Panel Cleaning,95,25,S1065_Sol
+1066,Solar Panel Cleaning,140,35,S1066_Sol
+1067,Patio/Pool Deck Cleaning,175,30,S1067_Pat
+1067,House Wash,245,35,S1067_Hou
+1068,Paver Sealing,1905,760,S1068_Pav
+1069,Paver Sealing,3695,1480,S1069_Pav
+1070,Driveway Cleaning,225,50,S1070_Dri
+1071,Roof Cleaning,1215,295,S1071_Roo
+1072,Driveway Cleaning,225,45,S1072_Dri
+1073,Roof Cleaning,1620,475,S1073_Roo
+1074,Window Cleaning,120,20,S1074_Win
+1074,Solar Panel Cleaning,90,25,S1074_Sol
+1075,Paver Sealing,3160,1265,S1075_Pav
+1076,Gutter Cleaning,115,30,S1076_Gut
+1077,Roof Cleaning,1360,220,S1077_Roo
+1078,Driveway Cleaning,225,30,S1078_Dri
+1079,Paver Sealing,3275,1310,S1079_Pav
+1080,Paver Sealing,990,395,S1080_Pav
+1081,House Wash,300,65,S1081_Hou
+1082,Gutter Cleaning,90,20,S1082_Gut

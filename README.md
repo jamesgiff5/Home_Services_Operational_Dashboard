@@ -4,7 +4,7 @@ Before becoming a Data Analyst, I ran my own exterior cleaning company in Orland
 
 📊 [Excel Dashboard](./home_services_project.xlsx)
 
-![Excel Dashboard Overview](assets/home_services_operational_dashboard.png)
+![Excel Dashboard Overview](assets/dashboard_preview.gif)
 
 ## 🧠 Executive Summary
 

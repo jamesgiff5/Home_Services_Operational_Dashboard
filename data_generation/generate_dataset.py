@@ -1,3 +1,18 @@
+"""
+This script creates a synthetic dataset simulating a residential home services business.
+It generates four CSV files: jobs.csv, services.csv, clients.csv, and zip_regions.csv.
+
+HOW TO RUN:
+1. Make sure you have Python 3 installed.
+2. Install required packages using:
+   pip install faker numpy pandas
+3. Run the script in your terminal or VS Code:
+   python generate_dataset.py
+4. Output CSV files will be saved in the 'data' directory.
+
+Note: The data is randomized but based on real-world logic and business operations.
+"""
+
 # Synthetic Home Services Dataset Generator
 import pandas as pd
 import numpy as np

@@ -83,6 +83,15 @@ Building this dashboard helped confirm a few things that align with what I saw i
 
 Overall, this kind of structured analysis makes it easier to spot what’s working, what’s not, and where to focus next. It’s the kind of clarity I always wished I had when I was running the show solo and wearing every hat.
 
+## ⚠️ Caveats & Limitations
+
+- The dataset is synthetic (not real business data) so although it follows realistic patterns, it’s not a perfect mirror of a live operation.
+- It assumes jobs happen any day of the week, but in reality your business probably had weekends, holidays, or downtime.
+- Calculated costs cover only direct cost of goods (cleaning supplies, sealer, etc.). They don’t include labor, travel, marketing, equipment, insurance or other overheads.
+- Profit margins look strong, but overlooking indirect expenses (like fuel, vehicle maintenance, or admin time) likely overstate actual net profit.
+- The model doesn’t factor in cancellations, last-minute reschedules, or no-shows—which can impact real-world performance.
+- There’s no seasonal pricing variation (like discounts in slow months or premiums in busy ones), and no account for price competition or local market saturation.
+
 ## 🧭 Opportunities for Further Exploration
 
 This project didn’t cover everything in the dataset. Areas for future analysis could include:

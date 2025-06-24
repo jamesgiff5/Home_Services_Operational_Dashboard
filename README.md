@@ -101,7 +101,7 @@ This project didn’t cover everything in the dataset. Areas for future analysis
 - **Customer Segmentation:** Cluster clients by value or behavior.
 - **Satisfaction Trends:** Explore the impact of payment delays or review scores.
 
-## Project Inspiration
+## 💧 Project Inspiration
 <img src="assets/exterior_cleaning_business.png" alt="Exterior Cleaning Business Pictures" width="500px">
 
 *Photos from my exterior cleaning business in Florida, which inspired this project.*

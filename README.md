@@ -1,6 +1,6 @@
 # Home Services Operational Dashboard
 
-I ran an exterior cleaning business in Orlando, FL before transitioning into data analytics. This dashboard uses synthetic data modeled on that experience, scaled up to uncover trends I always wanted better visibility on as an owner.
+I ran an exterior cleaning business in Orlando, FL before transitioning into data analytics. This dashboard uses synthetic data modeled on that experience, scaled up in volume to uncover trends I always wanted better visibility on as an owner.
 
 📊 [Excel Dashboard](./home_services_project.xlsx)
 
@@ -116,7 +116,7 @@ While not reflected in the dataset, commercial work was a major revenue driver a
 | Parking Garage Cleaning          | 5 floors                             | $11,000  | 5 days   | Extremely limited water access, had to improvise supply   |
 | Building Soft Wash               | 2 buildings, 5 stories               | $15,000  | 4 days   | Reached height limits of equipment   |
 
-<img src="https://raw.githubusercontent.com/jamesgiff5/Home_Services_Operational_Dashboard/refs/heads/main/assets/real_world_commercial_data.png" width="450px" alt="Real World Commercial Data Chart">
+<img src="https://raw.githubusercontent.com/jamesgiff5/Home_Services_Operational_Dashboard/refs/heads/main/assets/real_world_commercial_data.png" width="500px" alt="Real World Commercial Data Chart">
 
 
 Each commercial project demanded custom planning and on-the-fly problem solving, whether it was working around limited water supply, preventing chemical overspray, or coordinating multi-building schedules across a full week. I coordinated logistics through our referral partner, addressed concerns passed along from property managers, and adjusted workflows in real time to stay on track.

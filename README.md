@@ -8,17 +8,17 @@ I ran an exterior cleaning business in Orlando, FL before transitioning into dat
 
 ## 🧠 Executive Summary
 
-Built on synthetic data modeled from my own business, this project uncovers key insights into how a small home services company operates in real life—in terms of volume, profitability, and customer behavior:
+This project uncovers key insights into how a small home services company operates in real life, in terms of volume, profitability, and customer behavior:
 
 - **Consistent Volume:** ~90 jobs/month across two years, reflecting sustainable operations.
-- **Bundling Wins:** Jobs with 3–4 services delivered 40–90% more profit per job.
+- **Bundling Wins:** Jobs with 3-4 services delivered 40-90% more profit per job.
 - **Top Services:** Roof Cleaning and Paver Sealing dominate profit and revenue.
 - **Healthy Margins:** Most services yield 80%+ profit margins, even when bundled.
 - **Customer Trends:** 30% repeat client rate and 41% multi-service booking rate.
 
 ## 🔧 Dataset Creation
 
-Using Python (in VS Code), with help from ChatGPT, I built a data generator powered by `Faker` and `NumPy` that mirrors real operational patterns—seasonal demand, ZIP-based pricing, bundling, and repeat clients.
+Using Python (in VS Code), with help from ChatGPT, I built a data generator powered by `Faker` and `NumPy` that mirrors real operational patterns: seasonal demand, ZIP-based pricing, bundling, and repeat clients.
 
 🛠️ [Data Generation Script](./data_generation/generate_dataset.py)  
 📂 [Data Folder](./data/)  
@@ -27,12 +27,11 @@ Using Python (in VS Code), with help from ChatGPT, I built a data generator po
 
 ## 💡 Key Business Questions Answered
 
-- Which services drive the most profit and why?
-- How do bundled jobs compare to single-service bookings?
-- Are we operating near job capacity across months?
-- What’s the ratio of repeat clients and multi-service customers?
-- How do profit margins shift with seasonal demand?
-
+- **Which services drive the most profit and why?**
+- **How do bundled jobs compare to single-service bookings?**
+- **Are we operating near job capacity across months?**
+- **What’s the ratio of repeat clients and multi-service customers?**
+- **How do profit margins shift with seasonal demand?**
 
 ## 📊 Analysis Summary
 
@@ -46,7 +45,7 @@ Using Python (in VS Code), with help from ChatGPT, I built a data generator po
 
 - Paver Sealing brought in the highest average ticket at around $1,800 per job, though it maintained slimmer profit margins at roughly 60%. Roof Cleaning, by comparison, averaged $1,150 per job but held a strong 81% profit margin, making it the most valuable blend of volume and profitability.
 
-- Other services like window and driveway cleaning stayed in the $80–$320 range with strong margins—showing solid cost control across the board.
+- Other services like window and driveway cleaning stayed in the $80-$320 range with strong margins, showing solid cost control across the board.
 
 
 
@@ -58,7 +57,7 @@ Using Python (in VS Code), with help from ChatGPT, I built a data generator po
 
 - Although total job cost rose slightly with more services, profit margins remained stable around 80%, suggesting bundling boosts efficiency without hurting profitability.
 
-- Interestingly, average job cost was actually higher for single-service jobs. This is due to high-ticket services like paver sealing and roof cleaning often being booked alone. These services carry higher costs, but their strong margins keep them highly profitable. When smaller, lower-cost services are bundled, margins improve and total profits climb — highlighting the value of cross-service packaging. 
+- Interestingly, average job cost was actually higher for single-service jobs. This is due to high-ticket services like paver sealing and roof cleaning often being booked alone. These services carry higher costs, but their strong margins keep them highly profitable. When smaller, lower-cost services are bundled, margins improve and total profits climb, highlighting the value of cross-service packaging.
 
     ![Bundling Vs Profit Table](assets/how_bundling_multiple_services_affects_profit.png)
 
@@ -88,7 +87,7 @@ This analysis builds on what I was already doing, tracking performance, testing 
 
 ## 📌 Real Business Decisions That Informed This Dashboard
 
-Although this dataset is synthetic, it’s modeled directly on patterns I observed while running my own exterior cleaning business in Orlando, FL. The decisions below were based on real metrics and field experience—before I had the tools to visualize them like this.
+Although this dataset is synthetic, it’s modeled directly on patterns I observed while running my own exterior cleaning business in Orlando, FL. The decisions below were based on real metrics and field experience, before I had the tools to visualize them like this.
 
 ### 🏠 Residential Strategy and Service Patterns
 
@@ -101,7 +100,7 @@ Although this dataset is synthetic, it’s modeled directly on patterns I observ
 | Facebook ads underperforming         | Paused unprofitable campaigns, tested seasonal offers instead       | Lower spend, better ROI from word-of-mouth/EDDM          |
 | Targeted EDDM campaign               | Sent postcards to high-income ZIP where we’d done past work         | Brought in multiple new residential jobs in that area     |
 
-These real experiences directly shaped the dataset’s structure. The bundling logic came from observing which services customers actually paired and how that affected profitability. ZIP-based pricing came from quoting patterns—larger, more complex homes in some areas required more time and care. Seasonality reflected what I lived through, with spring bringing heavy demand and winter requiring strategic planning.
+These real experiences directly shaped the dataset’s structure. The bundling logic came from observing which services customers actually paired and how that affected profitability. ZIP-based pricing came from quoting patterns - larger, more complex homes in some areas required more time and care. Seasonality reflected what I lived through, with spring bringing heavy demand and winter requiring strategic planning.
 
 To keep the assumptions realistic, I drew from past invoices, estimates, and tracked customer habits. Metrics like repeat rate, ticket size, and margin ranges weren’t made up, they were based on actual business activity. This process made me realize how much of my work was already rooted in data.
 

@@ -8,12 +8,12 @@ I ran an exterior cleaning business in Orlando, FL before transitioning into dat
 
 ## 🧠 Executive Summary
 
-This project uncovers key insights into how a small home services company operates in real life, in terms of volume, profitability, and customer behavior:
+This project uncovers key insights into how a small home services company operates in real life, focusing on scheduling patterns, profitability, and customer behavior:
 
-- **Consistent Volume:** ~90 jobs/month across two years, reflecting sustainable operations.
+- **Consistent Volume:** Averaged ~90 jobs/month over two years, reflecting sustainable operations.
 - **Bundling Wins:** Jobs with 3-4 services delivered 40-90% more profit per job.
-- **Top Services:** Roof Cleaning and Paver Sealing dominate profit and revenue.
-- **Healthy Margins:** Most services yield 80%+ profit margins, even when bundled.
+- **Top Services:** Roof cleaning and paver sealing led in both profit and revenue.
+- **Healthy Margins:** Most services held 80%+ profit margins, even when bundled.
 - **Customer Trends:** 30% repeat client rate and 41% multi-service booking rate.
 
 ## 🔧 Dataset Creation

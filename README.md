@@ -1,6 +1,6 @@
 # Home Services Operational Dashboard
 
-Before becoming a Data Analyst, I ran my own exterior cleaning company in Orlando, FL. We specialized in pressure washing, soft washing, and paver sealing. I always wished I had better data to guide decisions, so I built the dataset I never had. This project uses synthetic data modeled directly on my real-world experience, scaled up in volume to uncover trends and evaluate performance with the kind of depth I used to want as a small business owner.
+I ran an exterior cleaning business in Orlando, FL before transitioning into data analytics. This dashboard uses synthetic data modeled on that experience, scaled up to uncover trends I always wanted better visibility on as an owner.
 
 📊 [Excel Dashboard](./home_services_project.xlsx)
 
@@ -18,11 +18,12 @@ Built on synthetic data modeled from my own business, this project uncovers key 
 
 ## 🔧 Dataset Creation
 
-Using Python (in VS Code), with help from ChatGPT, I built a data generator powered by `Faker` and `NumPy` that reflects real-world dynamics from my days running an exterior-cleaning business: seasonal demand, ZIP-level pricing tiers (High, Mid, Standard), frequent bundling, and even repeat client behavior.  
+Using Python (in VS Code), with help from ChatGPT, I built a data generator powered by `Faker` and `NumPy` that mirrors real operational patterns—seasonal demand, ZIP-based pricing, bundling, and repeat clients.
+
 🛠️ [Data Generation Script](./data_generation/generate_dataset.py)  
 📂 [Data Folder](./data/)  
 
-<img src="assets/entity_relationship_diagram.png" width="600"/>
+<img src="assets/entity_relationship_diagram.png" width="550"/>
 
 ## 💡 Key Business Questions Answered
 
@@ -45,7 +46,9 @@ Using Python (in VS Code), with help from ChatGPT, I built a data generator po
 
 - Paver Sealing brought in the highest average ticket at around $1,800 per job, though it maintained slimmer profit margins at roughly 60%. Roof Cleaning, by comparison, averaged $1,150 per job but held a strong 81% profit margin, making it the most valuable blend of volume and profitability.
 
-- Other service types, such as Window Cleaning and Driveway Cleaning, clustered in the $80 to $320 range, all maintaining healthy margins as well. This consistency indicates good cost control and pricing strategy across service lines.
+- Other services like window and driveway cleaning stayed in the $80–$320 range with strong margins—showing solid cost control across the board.
+
+
 
     ![Profitability By Service Type Table](assets/profitability_by_service_type.png)
 
@@ -75,22 +78,58 @@ Using Python (in VS Code), with help from ChatGPT, I built a data generator po
 
 Building this dashboard helped confirm a few things that align with what I saw in the field:
 
-- **Consistency matters.** Steady job volume and capacity awareness kept the business sustainable through seasonal demand.
-- **Upselling works.** Bundled services increased profit without harming margins, showing how smart packaging can maximize value.
+- **Steady schedule, profitable bundles.** Reliable volume and strategic service combinations helped maintain margins year-round.
 - **Profit comes from focus.** Roof cleaning and paver sealing drove the most revenue and should stay at the center of strategy.
 - **Customer behavior tells a story.** With 30% of clients returning and 41% choosing bundled services, there's clear room to grow through retention and loyalty.
 - **Synthetic doesn't mean random.** Modeling based on personal experience led to insights that feel grounded and usable, not generic.
 
-Overall, this kind of structured analysis makes it easier to spot what’s working, what’s not, and where to focus next. It’s the kind of clarity I always wished I had when I was running the show solo and wearing every hat.
+This analysis builds on what I was already doing, tracking performance, testing ideas, and making data-informed decisions. Now I can do it faster and with more clarity.
 
-## ⚠️ Caveats & Limitations
 
-- The dataset is synthetic (not real business data) so although it follows realistic patterns, it’s not a perfect mirror of a live operation.
-- It assumes jobs happen any day of the week, but in reality your business probably had weekends, holidays, or downtime.
-- Calculated costs cover only direct cost of goods (cleaning supplies, sealer, etc.). They don’t include labor, travel, marketing, equipment, insurance or other overheads.
-- Profit margins look strong, but overlooking indirect expenses (like fuel, vehicle maintenance, or admin time) likely overstate actual net profit.
-- The model doesn’t factor in cancellations, last-minute reschedules, or no-shows—which can impact real-world performance.
-- There’s no seasonal pricing variation (like discounts in slow months or premiums in busy ones), and no account for price competition or local market saturation.
+## 📌 Real Business Decisions That Informed This Dashboard
+
+Although this dataset is synthetic, it’s modeled directly on patterns I observed while running my own exterior cleaning business in Orlando, FL. The decisions below were based on real metrics and field experience—before I had the tools to visualize them like this.
+
+### 🏠 Residential Strategy and Service Patterns
+
+| Metric Tracked                        | Decision Made                                                      | Outcome                                                  |
+|--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------|
+| Low winter revenue                   | Focused on promoting paver sealing in Nov/Dec (drier, less demand) | Created a second seasonal spike, boosting Q4             |
+| Low job volume in early months       | Began pre-spring campaigns in Feb to fill March/April              | Filled schedule ahead of time                            |
+| One-off jobs not converting well     | Pushed bundling with slight discounts                              | Higher avg. ticket size and profitability                |
+| LSA-generated high-ticket lead       | Prioritized Local Service Ads after getting key commercial client  | Commercial projects ($7K–$20K) drove 50%+ of 2025 revenue |
+| Facebook ads underperforming         | Paused unprofitable campaigns, tested seasonal offers instead       | Lower spend, better ROI from word-of-mouth/EDDM          |
+| Targeted EDDM campaign               | Sent postcards to high-income ZIP where we’d done past work         | Brought in multiple new residential jobs in that area     |
+
+These real experiences directly shaped the dataset’s structure. The bundling logic came from observing which services customers actually paired and how that affected profitability. ZIP-based pricing came from quoting patterns—larger, more complex homes in some areas required more time and care. Seasonality reflected what I lived through, with spring bringing heavy demand and winter requiring strategic planning.
+
+To keep the assumptions realistic, I drew from past invoices, estimates, and tracked customer habits. Metrics like repeat rate, ticket size, and margin ranges weren’t made up, they were based on actual business activity. This process made me realize how much of my work was already rooted in data.
+
+### 🧾 Commercial Project Snapshot
+
+While the dataset focuses on residential work, commercial projects drove significant revenue and required more complex planning and coordination.
+
+| Job Description                  | Scope                                | Revenue  | Duration | Key Challenge                                             |
+|----------------------------------|--------------------------------------|----------|----------|-----------------------------------------------------------|
+| Breezeway Cleaning (2024)        | 30 buildings                         | $10,000  | 6 days   | Manage water intrusion into units with poor weather seals |
+| Building + Breezeway Wash        | 11 buildings, 3 stories              | $20,000  | 6 days   | Prevent chemical overspray onto cars                     |
+| Breezeway Cleaning               | 12 buildings, 3 stories              | $7,200   | 3 days   | Clean grime without damaging painted breezeway floors     |
+| Parking Garage Cleaning          | 5 floors                             | $11,000  | 5 days   | Extremely limited water access, had to improvise supply   |
+| Building Soft Wash               | 2 buildings, 5 stories               | $15,000  | 4 days   | Reached height limits of equipment, tested upper bounds   |
+
+![Revenue per Day by Commercial Job](assets/real_world_commercial_data.png)
+
+Each commercial project demanded custom planning and on-the-fly problem solving, whether it was working around limited water supply, preventing chemical overspray, or coordinating multi-building schedules across a full week. I managed direct communication with property managers, handled resident concerns, and adjusted workflows in real time to stay on track.
+
+These jobs weren’t just physical, they were logistical. I had to evaluate scope, pace the team, troubleshoot equipment failures, and document all work with before/after photos to ensure accountability. That experience taught me to think critically about timelines, constraints, and risk, exactly the kind of structured thinking I now apply to data projects.
+
+
+## ⚠️ Dataset Caveats & Assumptions
+
+- Jobs are evenly distributed with no breaks for weekends, holidays, or weather delays.
+- Costs include only direct materials: labor, travel, equipment, and overhead are excluded.
+- Margins are likely overstated due to missing indirect expenses like fuel and admin time.
+- The model doesn’t include cancellations or schedule disruptions.
 
 ## 🧭 Opportunities for Further Exploration
 
@@ -102,6 +141,6 @@ This project didn’t cover everything in the dataset. Areas for future analysis
 - **Satisfaction Trends:** Explore the impact of payment delays or review scores.
 
 ## 💧 Project Inspiration
-<img src="assets/exterior_cleaning_business.png" alt="Exterior Cleaning Business Pictures" width="500px">
+<img src="assets/exterior_cleaning_business.png" alt="Exterior Cleaning Business Pictures" width="400px">
 
 *Photos from my exterior cleaning business in Florida, which inspired this project.*
